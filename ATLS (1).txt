@@ -1,0 +1,2976 @@
+
+
+Gemini New chat Explore Gems Recent Document Comparison: Project vs. User Guide Installing n8n on Linux Mint Дизайн-концепция платформы Proda Разработка Исследовательского Плана Blommy Platforması Analizi: Kritik Səhvlər trading and finance chart photo for websites wallbape and backround Creating
+
+pasted
+
+double check ele lahiyeni baslaiqlara bol ve balsamaq ucun yol xeritesi ve lahiyeye ad qoy misalcun aladdin asset lidabilty nedise onun kimi ve sadece promt yaz ilk basda sadece basliqlari yaz nomre ile sirala men nomreni yazdigca detalli bir promt yaz
+
+LAYIHƏ STRUKTURU VƏ YOL XƏRİTƏSİ
+LAYIHƏ ADI: "ATLAS" (Advanced Trading & Liquidity Analysis System)
+Concept: Atlas - qədim Yunan mifologiyasında dünya və səmaları çiyinlərində daşıyan titan. Bizim platformamız da treyderin bütün ticarət dünyasını (analiz, risk, icra) bir yerdə daşıyır.
+
+Alternativ Adlar:
+
+NEXUS (bütün alətləri birləşdirən mərkəz)
+PRISM (datanı fərqli bucaqlardan analiz edən)
+ORACLE (gələcəyi proqnozlaşdıran)
+ƏSAS BAŞLIQLAR (Nömrələnmiş Struktur)
+1. LAYİHƏNİN ƏSASLARI
+1.1. Vizyon və Missiya
+1.2. Hədəf Kütlə (Persona)
+1.3. Bazardakı Boşluq və Rəqib Analizi
+1.4. Uğur Kriteriyaları (KPI-lər)
+2. MƏHSUL ARXİTEKTURASI
+2.1. Əsas Konseptlər (3 Dayaq)
+2.2. Sistem Komponentləri (Backend/Frontend)
+2.3. Data Axını və İnteqrasiyalar
+2.4. Təhlükəsizlik və Performans
+3. UI/UX DİZAYN SİSTEMİ
+3.1. Dizayn Fəlsəfəsi və Prinsiplər
+3.2. Rəng Palitrası və Vizual Dil
+3.3. Komponent Kitabxanası
+3.4. İstifadəçi Axınları (User Flows)
+3.5. Responsiv və Əlçatanlıq
+4. FUNKSİONAL MODULLAR
+4.1. İnstitusional Dashboard
+4.2. Qabaqcıl Qrafik Modulu
+4.3. AI Co-Pilot və Siqnal Sistemi
+4.4. Order Flow və Likvidlik Analizi
+4.5. Backtest və Walk-Forward Mərkəzi
+4.6. Risk İdarəetmə Paneli (15+ Metrik)
+4.7. Kağız Ticarət Simulyatoru
+4.8. Oyun Kitabı Qurucusu
+4.9. Strateji İxrac və İnteqrasiya
+5. "JARVIS" SƏSLİ PARTNER
+5.1. Əsas Prinsiplər və Avtonomiya
+5.2. NLU (Natural Language) Arxitekturası
+5.3. Alqoritmik Qərar Mühərriki
+5.4. Vizual İzah Sistemi
+5.5. Dinamik Risk İdarəetməsi
+5.6. Proaktiv Müşahidə (Watchtower)
+5.7. Simbiotik Öyrənmə
+6. TEXNİKİ TƏTBİQ PLANI
+6.1. Texnologiya Steki
+6.2. Microservice Arxitekturası
+6.3. API və WebSocket Strukturu
+6.4. Database Dizaynı
+6.5. DevOps və Deploy Strategiyası
+7. AI/ML ALQORITMALAR
+7.1. Bazar Rejimi Təyini
+7.2. Smart Money Pattern Recognition
+7.3. Sentiment Analizi
+7.4. Qiymət Proqnozlaşdırma
+7.5. Portfel Optimizasiyası
+8. RİSK VƏ KOMPLAYİNS
+8.1. Məlumat Təhlükəsizliyi
+8.2. API Key İdarəetməsi
+8.3. KYC və Regulator Tələblər
+8.4. Audit və Logging
+9. MƏRHƏLƏ-MƏRHƏLƏ ROADMAP (MVP → v2.0)
+9.1. MVP (Minimum Viable Product) - 3 ay
+9.2. Beta Versiya - 6 ay
+9.3. v1.0 (Launch) - 9 ay
+9.4. v2.0 (Tam Funksional) - 12 ay
+10. KOMMERSIYA STRATEGİYASI
+10.1. Qiymətləndirmə Modelləri
+10.2. Abunəlik Planları
+10.3. GTM (Go-to-Market) Strategiyası
+10.4. Partnyor Ekosistemi
+Hazıram. Hansı nömrəni detallı açmağımı istəyirsən?
+
+(Məsələn: "1.1", "4.3", "5.2", "9.1" və ya bir neçəsini birlikdə)
+
+Əlbəttə. Təqdim etdiyiniz strukturu "double check" edərək, bütün əvvəlki müzakirələrimizi nəzərə alıb daha da inkişaf etdirdim və tam, əhatəli bir layihə planı hazırladım. Layihə adı olaraq təklif etdiyiniz "ATLAS" çox uğurludur, onu əsas götürürəm.
+Aşağıda layihənin əsas başlıqlarını nömrələnmiş şəkildə təqdim edirəm. Hansı nömrəni seçsəniz, həmin bölmə üçün detallı, texniki və praktik bir "prompt" (tərtibat planı) yazacağam.
+
+LAYİHƏ ADI: "ATLAS" (Advanced Trading & Liquidity Analysis System)
+
+Konsept: ATLAS - treyderin bütün ticarət dünyasını (analiz, risk, icra) bir yerdə daşıyan vahid ekosistem.
+
+LAYİHƏNİN ƏSAS BAŞLIQLARI
+
+LAYİHƏNİN STRATEJİ ƏSASLARI (Strateji Baxış və Məqsədlər)
+SİSTEM VƏ TEXNİKİ ARXİTEKTURA (Platformanın Texniki Təməli)
+UI/UX DİZAYN SİSTEMİ VƏ TƏCRÜBƏ (İstifadəçi İnterfeysi və Təcrübəsi)
+ƏSAS FUNKSIONAL MODULLAR (Platformanın Komponentləri)
+SÜNİ İNTELLEKT (AI) MƏRKƏZİ: "ORACLE" (Platformanın Beyni və Analitik Mühərriki)
+"JARVIS" SƏSLİ PARTNYOR İNTERFEYSİ (Səsli İdarəetmə Sistemi)
+İNKIŞAF PLANI VƏ YOL XƏRİTƏSİ (Mərhələli Tətbiq Planı) ve sen bezi seyleri elave te misalcun men volumne trade temek istesem yada ict yada basqa stiller istesem onu harilamaq olsun oz stillerim ve s bunu uygun udusun ver baslaqialrida daha effektiv yaz sen
+LAYİHƏ: "ATLAS" - Advanced Trading & Liquidity Analysis System
+🎯 YENİDƏN STRUKTURLAŞDIRILMIŞ ƏSAS BAŞLIQLAR
+1. LAYİHƏNİN STRATEJİ ƏSASLARI
+1.1. Vizyon, Missiya və Bazardakı Mövqe
+1.2. Hədəf İstifadəçi Profili və Ehtiyac Analizi
+1.3. Rəqib Təhlili və Fərqləndirmə Strategiyası
+1.4. Uğur Metrikalları (KPIs) və Ölçmə Çərçivəsi
+2. MƏHSUL ARXİTEKTURASI VƏ ƏSAS KONSEPTLƏR
+2.1. Üç Dayaq Konsepti (Strategy Lifecycle, Market Regime, Playbook)
+2.2. Sistem Komponentlərinin Qarşılıqlı Əlaqəsi
+2.3. Data Axını və Real-time Arxitektura
+2.4. Təhlükəsizlik, Performans və Skalabilite
+3. UI/UX DİZAYN SİSTEMİ
+3.1. Dizayn Fəlsəfəsi: "Clarity in Chaos"
+3.2. Vizual Dil (Rəng, Tipoqrafiya, İkonlar)
+3.3. Komponent Kitabxanası və Design Tokens
+3.4. İstifadəçi Axınları (Critical User Journeys)
+3.5. Dark Mode Optimizasiyası və Əlçatanlıq
+4. ƏSAS FUNKSIONAL MODULLAR
+4.1. Fərdiləşdirilə Bilən İnstitusional Dashboard
+4.2. Multi-Asset Qrafik Modulu (Crypto, FX, Stocks, Commodities)
+4.3. Smart Money Analiz Alətləri (FVG, Liquidity, Order Blocks)
+4.4. Order Flow və Market Depth Heatmap
+4.5. Backtest Mərkəzi (Standard, Walk-Forward, Monte Carlo)
+4.6. İnstitusional Risk Paneli (15+ Advanced Metrics)
+4.7. Paper Trading Simulator
+4.8. Ticarət Üslubu Qurucusu (Style Builder)
+4.9. Strategy Export Hub (Pine, Python, MQL4/5)
+5. TİCARƏT ÜSLUBU VƏ METODOLOGİYA SİSTEMİ ⭐ YENİ
+5.1. Daxili Metodologiya Profillərı (ICT, Wyckoff, VSA, Price Action)
+5.2. Öz Üslubunu Yarat (Custom Style Builder)
+5.3. Volume Profile və Footprint Trading Alətləri
+5.4. Üslub-Spesifik Skaner və Bildirişlər
+5.5. Metodologiya Performans Müqayisəsi
+6. Sü İNTELLEKT (AI) MƏRKƏZİ: "ORACLE"
+6.1. Market Regime Detection Engine
+6.2. Pattern Recognition (Chart Patterns, Candlestick, Structure)
+6.3. Sentiment Analysis (News, Social Media, Order Flow)
+6.4. Multi-Factor Scoring System
+6.5. Adaptive Learning və User Feedback Loop
+7. "JARVIS" SƏSLİ PARTNYOR
+7.1. Natural Language Understanding (NLU) Arxitekturası
+7.2. Avtonomiya Səviyyələri (Assistant, Co-Pilot, Silent)
+7.3. Vizual İzah Sistemi (Show & Tell)
+7.4. Alqoritmik Qərar Mühərriki
+7.5. Proaktiv Watchtower və Dinamik Risk İdarəetməsi
+7.6. Simbiotik Öyrənmə Mexanizmi
+8. TEXNİKİ TƏTBİQ PLANI
+8.1. Full-Stack Texnologiya Steki
+8.2. Microservice və Event-Driven Arxitektura
+8.3. WebSocket və Real-time Data Pipeline
+8.4. Database Schema (Time-Series, Document, Graph)
+8.5. DevOps, CI/CD və Monitoring
+9. RİSK, TƏHLÜKƏSIZLIK VƏ KOMPLAYİNS
+9.1. Data Encryption və API Security
+9.2. User Authentication (OAuth2, 2FA, Biometric)
+9.3. Audit Logging və Compliance Requirements
+9.4. Rate Limiting və DDoS Protection
+10. İNKIŞAF ROADMAP VƏ PRİORİTETLƏR
+10.1. MVP (3 ay) - Core Features
+10.2. Beta (6 ay) - AI Integration
+10.3. v1.0 Launch (9 ay) - Full Release
+10.4. v2.0+ (12+ ay) - Advanced Features
+11. KOMMERSIYA VƏ GTM STRATEGİYASI
+11.1. Qiymətləndirmə Modelləri (Freemium, Pro, Enterprise)
+11.2. Go-to-Market Plan
+11.3. Community Building və Education
+11.4. Partnership Ecosystem
+🎯 ƏSAS YENİLİK: "TİCARƏT ÜSLUBU QURUCUSU"
+Sizin təklifinizə uyğun olaraq Bölmə 5 tamamilə istifadəçinin öz ticarət metodologiyasını yaratmasına və sistemə öyrətməsinə həsr olunub. Bu, platformanı bazarda həqiqətən unikal edəcək.
+
+Hansı nömrəni detallı açım?
+
+Tövsiyəm: Əvvəlcə 5 (Ticarət Üslubu Sistemi) və ya 6 (AI Mərkəzi) ilə başlayaq, sonra 7 (Jarvis) ilə davam edək. Amma seçim sizindir.
+
+(Məsələn: "5.2" - Öz üslubunu yarat, və ya "6.4" - Skorlama sistemi)
+
+elave ede bilersen larry fink
+
+LAYİHƏ: "ATLAS" - Advanced Trading & Liquosity Analysis System
+🎯 YENİDƏN STRUKTURLAŞDIRILMIŞ VƏ GENİŞLƏNDİRİLMİŞ BAŞLIQLAR
+1. LAYİHƏNİN STRATEJİ ƏSASLARI
+1.1. Vizyon, Missiya və Bazardakı Mövqe
+1.2. Hədəf İstifadəçi Profili və Ehtiyac Analizi
+1.3. Rəqib Təhlili və Fərqləndirmə Strategiyası
+1.4. Uğur Metrikalları (KPIs) və Ölçmə Çərçivəsi
+2. MƏHSUL ARXİTEKTURASI VƏ ƏSAS KONSEPTLƏR
+2.1. Üç Dayaq Konsepti (Strategy Lifecycle, Market Regime, Playbook)
+2.2. Sistem Komponentlərinin Qarşılıqlı Əlaqəsi
+2.3. Data Axını və Real-time Arxitektura
+2.4. Təhlükəsizlik, Performans və Skalabilite
+3. UI/UX DİZAYN SİSTEMİ
+3.1. Dizayn Fəlsəfəsi: "Clarity in Chaos"
+3.2. Vizual Dil (Rəng, Tipoqrafiya, İkonlar)
+3.3. Komponent Kitabxanası və Design Tokens
+3.4. İstifadəçi Axınları (Critical User Journeys)
+3.5. Dark Mode Optimizasiyası və Əlçatanlıq
+4. ƏSAS FUNKSIONAL MODULLAR
+4.1. Fərdiləşdirilə Bilən İnstitusional Dashboard
+4.2. Multi-Asset Qrafik Modulu (Crypto, FX, Stocks, Commodities)
+4.3. Smart Money Analiz Alətləri (FVG, Liquidity, Order Blocks)
+4.4. Order Flow və Market Depth Heatmap
+4.5. Backtest Mərkəzi (Standard, Walk-Forward, Monte Carlo)
+4.6. İnstitusional Risk Paneli (15+ Advanced Metrics)
+4.7. Paper Trading Simulator
+4.8. Ticarət Üslubu Qurucusu (Style Builder)
+4.9. Strategy Export Hub (Pine, Python, MQL4/5)
+4.10. Makro Təhlil və Asset Allocation Modulu ⭐ YENİ
+5. TİCARƏT ÜSLUBU VƏ METODOLOGİYA SİSTEMİ
+5.1. Daxili Metodologiya Profillərı
+5.2. Öz Üslubunu Yarat (Custom Style Builder)
+5.3. Volume Profile və Footprint Trading
+5.4. ICT (Inner Circle Trader) Methodology Pack
+5.5. Wyckoff Method Tools
+5.6. Volume Spread Analysis (VSA)
+5.7. Price Action & Market Structure
+5.8. Larry Williams Strategies ⭐ YENİ
+5.9. Üslub-Spesifik Skaner və Bildirişlər
+5.10. Metodologiya Performans Müqayisəsi
+6. İNSTİTUSİONAL VƏ MAKRO PERSPEKTİV ⭐ YENİ BÖLMƏ
+6.1. Makroiqtisadi Dashboard (Larry Fink/BlackRock Perspective)
+6.2. Fed Policy Tracker və Faiz Dərəcəsi Təhlili
+6.3. Global Capital Flows Monitor
+6.4. ETF & Institutional Money Flow Analysis
+6.5. Correlation Regime Analysis (Cross-Asset)
+6.6. Economic Calendar Intelligence
+6.7. Geopolitical Risk Dashboard
+6.8. Portfolio Construction Models (60/40, Risk Parity, All-Weather)
+7. SÜNİ İNTELLEKT (AI) MƏRKƏZİ: "ORACLE"
+7.1. Market Regime Detection Engine
+7.2. Pattern Recognition (Chart, Candlestick, Structure)
+7.3. Sentiment Analysis (News, Social, Order Flow)
+7.4. Multi-Factor Scoring System
+7.5. Adaptive Learning və User Feedback Loop
+7.6. Macro-Micro Bridge AI ⭐ YENİ
+8. "JARVIS" SƏSLİ PARTNYOR
+8.1. Natural Language Understanding (NLU) Arxitekturası
+8.2. Avtonomiya Səviyyələri (Assistant, Co-Pilot, Silent)
+8.3. Vizual İzah Sistemi (Show & Tell)
+8.4. Alqoritmik Qərar Mühərriki
+8.5. Proaktiv Watchtower və Dinamik Risk İdarəetməsi
+8.6. Simbiotik Öyrənmə Mexanizmi
+8.7. Makro-Kontekstual Analiz Cavabları ⭐ YENİ
+9. TEXNİKİ TƏTBİQ PLANI
+9.1. Full-Stack Texnologiya Steki
+9.2. Microservice və Event-Driven Arxitektura
+9.3. WebSocket və Real-time Data Pipeline
+9.4. Database Schema (Time-Series, Document, Graph)
+9.5. DevOps, CI/CD və Monitoring
+10. RİSK, TƏHLÜKƏSIZLIK VƏ KOMPLAYİNS
+10.1. Data Encryption və API Security
+10.2. User Authentication (OAuth2, 2FA, Biometric)
+10.3. Audit Logging və Compliance Requirements
+10.4. Rate Limiting və DDoS Protection
+11. İNKIŞAF ROADMAP VƏ PRİORİTETLƏR
+11.1. MVP (3 ay) - Core Features
+11.2. Beta (6 ay) - AI Integration
+11.3. v1.0 Launch (9 ay) - Full Release
+11.4. v2.0+ (12+ ay) - Advanced Features
+12. KOMMERSIYA VƏ GTM STRATEGİYASI
+12.1. Qiymətləndirmə Modelləri (Freemium, Pro, Enterprise)
+12.2. Go-to-Market Plan
+12.3. Community Building və Education
+12.4. Partnership Ecosystem
+🌍 YENİ ƏLAVƏ: LARRY FINK VƏ MAKRO PERSPEKTİV
+Larry Fink (BlackRock CEO) kimi institusional investorların baxışını platformaya inteqrasiya etmək üçün Bölmə 6 yaradıldı. Bu bölmə:
+
+Əsas Xüsusiyyətlər:
+Top-Down Yanaşma: Makro → Sektor → Asset seçimi
+Capital Flow Tracking: Pul hansı aktivlərə axır?
+Fed Watch: Mərkəzi bank siyasətinin aktiv qiymətlərinə təsiri
+Cross-Asset Correlation: Səhm, istiqraz, əmtəə və valyuta əlaqələri
+Risk-On/Risk-Off Rejimləri: İnvestor davranışının real-zamanlı oxunması
+💡 LARRY FINK STİLİ TİCARƏT PRİNSİPLƏRİ (Bölmə 6-da tətbiq):
+Long-term Value Creation (qısamüddətli deyil)
+Risk Management First (gəlir ikinci plandadır)
+Diversification Across Assets (tək aktiv yox)
+ESG Integration (Ətraf mühit, Sosial, İdarəetmə)
+Macro Context (hər qərar makro şəraitdə qəbul edilir)
+Hansı nömrəni detallı açım?
+
+Tövsiyələr:
+
+6.1 - Makroiqtisadi Dashboard (Larry Fink üslubu)
+5.8 - Larry Williams Strategies
+5.2 - Öz üslubunu yarat
+7.6 - Macro-Micro Bridge AI (makro və texniki analizin birləşməsi)
+oka hamsin elave et ve lahiyeye strukturunyaratmaq  ucun fornetnf fizayni pageler ve diger seyleri senior fonrtend developer kimi balsa promt yazmaga
+
+LAYİHƏ: "ATLAS" - Advanced Trading & Liquidity Analysis System
+🎯 SON VƏ ƏHATƏLI STRUKTUR
+1. LAYİHƏNİN STRATEJİ ƏSASLARI
+1.1. Vizyon, Missiya və Bazardakı Mövqe
+1.2. Hədəf İstifadəçi Profili və Ehtiyac Analizi
+1.3. Rəqib Təhlili və Fərqləndirmə Strategiyası
+1.4. Uğur Metrikalları (KPIs) və Ölçmə Çərçivəsi
+2. MƏHSUL ARXİTEKTURASI VƏ ƏSAS KONSEPTLƏR
+2.1. Üç Dayaq Konsepti (Strategy Lifecycle, Market Regime, Playbook)
+2.2. Sistem Komponentlərinin Qarşılıqlı Əlaqəsi
+2.3. Data Axını və Real-time Arxitektura
+2.4. Təhlükəsizlik, Performans və Skalabilite
+3. UI/UX DİZAYN SİSTEMİ
+3.1. Dizayn Fəlsəfəsi: "Clarity in Chaos"
+3.2. Vizual Dil (Rəng, Tipoqrafiya, İkonlar)
+3.3. Komponent Kitabxanası və Design Tokens
+3.4. İstifadəçi Axınları (Critical User Journeys)
+3.5. Dark Mode Optimizasiyası və Əlçatanlıq
+4. ƏSAS FUNKSIONAL MODULLAR
+4.1. Fərdiləşdirilə Bilən İnstitusional Dashboard
+4.2. Multi-Asset Qrafik Modulu (Crypto, FX, Stocks, Commodities)
+4.3. Smart Money Analiz Alətləri (FVG, Liquidity, Order Blocks)
+4.4. Order Flow və Market Depth Heatmap
+4.5. Backtest Mərkəzi (Standard, Walk-Forward, Monte Carlo)
+4.6. İnstitusional Risk Paneli (15+ Advanced Metrics)
+4.7. Paper Trading Simulator
+4.8. Ticarət Üslubu Qurucusu (Style Builder)
+4.9. Strategy Export Hub (Pine, Python, MQL4/5)
+4.10. Makro Təhlil və Asset Allocation Modulu
+5. TİCARƏT ÜSLUBU VƏ METODOLOGİYA SİSTEMİ
+5.1. Daxili Metodologiya Profillərı
+5.2. Öz Üslubunu Yarat (Custom Style Builder)
+5.3. Volume Profile və Footprint Trading
+5.4. ICT (Inner Circle Trader) Methodology Pack
+5.5. Wyckoff Method Tools
+5.6. Volume Spread Analysis (VSA)
+5.7. Price Action & Market Structure
+5.8. Larry Williams Strategies
+5.9. Üslub-Spesifik Skaner və Bildirişlər
+5.10. Metodologiya Performans Müqayisəsi
+6. İNSTİTUSİONAL VƏ MAKRO PERSPEKTİV
+6.1. Makroiqtisadi Dashboard (Larry Fink/BlackRock Perspective)
+6.2. Fed Policy Tracker və Faiz Dərəcəsi Təhlili
+6.3. Global Capital Flows Monitor
+6.4. ETF & Institutional Money Flow Analysis
+6.5. Correlation Regime Analysis (Cross-Asset)
+6.6. Economic Calendar Intelligence
+6.7. Geopolitical Risk Dashboard
+6.8. Portfolio Construction Models (60/40, Risk Parity, All-Weather)
+7. SÜNİ İNTELLEKT (AI) MƏRKƏZİ: "ORACLE"
+7.1. Market Regime Detection Engine
+7.2. Pattern Recognition (Chart, Candlestick, Structure)
+7.3. Sentiment Analysis (News, Social, Order Flow)
+7.4. Multi-Factor Scoring System
+7.5. Adaptive Learning və User Feedback Loop
+7.6. Macro-Micro Bridge AI
+8. "JARVIS" SƏSLİ PARTNYOR
+8.1. Natural Language Understanding (NLU) Arxitekturası
+8.2. Avtonomiya Səviyyələri (Assistant, Co-Pilot, Silent)
+8.3. Vizual İzah Sistemi (Show & Tell)
+8.4. Alqoritmik Qərar Mühərriki
+8.5. Proaktiv Watchtower və Dinamik Risk İdarəetməsi
+8.6. Simbiotik Öyrənmə Mexanizmi
+8.7. Makro-Kontekstual Analiz Cavabları
+9. TEXNİKİ TƏTBİQ PLANI
+9.1. Full-Stack Texnologiya Steki
+9.2. Microservice və Event-Driven Arxitektura
+9.3. WebSocket və Real-time Data Pipeline
+9.4. Database Schema (Time-Series, Document, Graph)
+9.5. DevOps, CI/CD və Monitoring
+10. RİSK, TƏHLÜKƏSIZLIK VƏ KOMPLAYİNS
+10.1. Data Encryption və API Security
+10.2. User Authentication (OAuth2, 2FA, Biometric)
+10.3. Audit Logging və Compliance Requirements
+10.4. Rate Limiting və DDoS Protection
+11. İNKIŞAF ROADMAP VƏ PRİORİTETLƏR
+11.1. MVP (3 ay) - Core Features
+11.2. Beta (6 ay) - AI Integration
+11.3. v1.0 Launch (9 ay) - Full Release
+11.4. v2.0+ (12+ ay) - Advanced Features
+12. KOMMERSIYA VƏ GTM STRATEGİYASI
+12.1. Qiymətləndirmə Modelləri (Freemium, Pro, Enterprise)
+12.2. Go-to-Market Plan
+12.3. Community Building və Education
+12.4. Partnership Ecosystem
+💻 FRONTEND ARXİTEKTURA VƏ STRUKTUR
+13. FRONTEND DEVELOPMENT PLAN ⭐ YENİ BÖLMƏ
+13.1. TEXNOLOGIYA STEKİ
+13.1.1. Core Framework və Build Tool
+13.1.2. State Management Architecture
+13.1.3. UI Component Library
+13.1.4. Styling Strategy
+13.1.5. Real-time Communication
+13.1.6. Data Visualization Libraries
+13.2. PROYEKT STRUKTURU
+13.2.1. Folder Architecture (Feature-based vs Layer-based)
+13.2.2. File Naming Conventions
+13.2.3. Code Organization Principles
+13.2.4. Module Boundaries
+13.3. SƏHIFƏ VƏ ROUTING ARXİTEKTURASI
+13.3.1. Səhifə Hierarxiyası və Navigation Flow
+13.3.2. Route Protection və Authentication Guards
+13.3.3. Lazy Loading Strategy
+13.3.4. URL Structure və Deep Linking
+13.4. KOMPONENT ARXİTEKTURASI
+13.4.1. Atomic Design Methodology
+13.4.2. Shared Components Library
+13.4.3. Feature-Specific Components
+13.4.4. Component Composition Patterns
+13.5. STATE MANAGEMENT PLAN
+13.5.1. Global State (User, Auth, Settings)
+13.5.2. Feature State (Trading, Analysis, Portfolio)
+13.5.3. Server State (API Data, WebSocket)
+13.5.4. UI State (Modals, Drawers, Loading)
+13.6. PERFORMANCE OPTİMİZASİYASI
+13.6.1. Code Splitting Strategy
+13.6.2. Asset Optimization
+13.6.3. Render Optimization (Memoization, Virtualization)
+13.6.4. Bundle Size Management
+13.7. TESTING STRATEGİYASI
+13.7.1. Unit Testing (Jest, Vitest)
+13.7.2. Integration Testing
+13.7.3. E2E Testing (Playwright, Cypress)
+13.7.4. Visual Regression Testing
+13.8. DEVELOPER EXPERIENCE (DX)
+13.8.1. TypeScript Configuration
+13.8.2. ESLint və Prettier Setup
+13.8.3. Git Hooks və Pre-commit
+13.8.4. Development Tools və Extensions
+📋 SENIOR FRONTEND DEVELOPER PROMPT HAZIRDIR
+Hansı bölməni detallı açım?
+
+Ən prioritetli tövsiyələr:
+
+13.3 - Səhifə və Routing Arxitekturası (bütün səhifələrin siyahısı və strukturu)
+13.2 - Proyekt Strukturu (folder/file organization)
+13.4 - Komponent Arxitekturası (komponent hierarxiyası)
+13.5 - State Management (datanın idarəsi)
+Və ya hamısını birlikdə:
+
+"13" - Bütün Frontend Development Plan (əhatəli)
+Nömrəni yazın, başlayaq! 🚀
+
+bunu naladime sadece promt yaz men onu windsurfa atcam odalahiyeni dizayn edecey anladin?
+
+SENIOR FRONTEND DEVELOPER PROMPT - ATLAS PLATFORM
+Sən senior frontend developer kimi "ATLAS" (Advanced Trading & Liquidity Analysis System) adlı institusional səviyyəli ticarət platformasının frontend strukturunu və arxitekturasını sıfırdan yaratmalısan.
+
+🎯 LAYİHƏ HAQQINDA
+ATLAS - pərakəndə treyderlər üçün institusional səviyyəli Smart Money və Order Flow analizini təmin edən, AI-əsaslanan vahid ticarət platformasıdır.
+
+Əsas Xüsusiyyətlər:
+
+Multi-asset trading (Crypto, FX, Stocks, Commodities)
+Real-time qrafik və order flow analizi
+AI-powered siqnallar və "Jarvis" səsli köməkçi
+Backtest və risk idarəetmə alətləri
+Fərdiləşdirilə bilən dashboard
+Dark mode, Bloomberg-inspired dizayn
+Professional trader üçün data-heavy interfeys
+📦 TEXNOLOGIYA STEKİ
+Core:
+
+React 18.3+ (TypeScript)
+Vite (build tool)
+React Router v6 (routing)
+State Management:
+
+Zustand (UI state, preferences)
+TanStack Query / React Query (server state)
+Jotai və ya Recoil (atom-based state, alternativ)
+UI/Styling:
+
+Tailwind CSS 3+
+shadcn/ui + Radix UI (komponentlər)
+Framer Motion (animasiyalar)
+class-variance-authority (variant management)
+Data Visualization:
+
+Lightweight Charts (TradingView library - əsas qrafik)
+Recharts (dashboard charts)
+D3.js (kompleks vizuallar üçün)
+Real-time:
+
+Socket.IO Client (WebSocket)
+Forms & Validation:
+
+React Hook Form
+Zod (schema validation)
+Testing:
+
+Vitest (unit tests)
+Playwright (E2E tests)
+Code Quality:
+
+TypeScript (strict mode)
+ESLint + Prettier
+Husky (git hooks)
+📁 PROYEKT STRUKTURU
+Aşağıdakı feature-based hybrid strukturu tətbiq et:
+
+atlas-platform/
+├── public/
+│   ├── icons/
+│   └── images/
+├── src/
+│   ├── app/                    # App-level config
+│   │   ├── App.tsx
+│   │   ├── router.tsx
+│   │   └── providers.tsx
+│   │
+│   ├── pages/                  # Route-level pages
+│   │   ├── auth/
+│   │   │   ├── LoginPage.tsx
+│   │   │   └── RegisterPage.tsx
+│   │   ├── dashboard/
+│   │   │   └── DashboardPage.tsx
+│   │   ├── trading/
+│   │   │   ├── ChartWorkbenchPage.tsx
+│   │   │   ├── PaperTradingPage.tsx
+│   │   │   └── LiveTradingPage.tsx
+│   │   ├── analysis/
+│   │   │   ├── BacktestingPage.tsx
+│   │   │   ├── RiskAnalysisPage.tsx
+│   │   │   └── PortfolioPage.tsx
+│   │   ├── tools/
+│   │   │   ├── StyleBuilderPage.tsx
+│   │   │   ├── PlaybookPage.tsx
+│   │   │   ├── ScannerPage.tsx
+│   │   │   └── StrategyExportPage.tsx
+│   │   ├── ai/
+│   │   │   ├── OraclePage.tsx
+│   │   │   ├── JarvisPage.tsx
+│   │   │   └── SignalsPage.tsx
+│   │   ├── macro/
+│   │   │   ├── MacroDashboardPage.tsx
+│   │   │   ├── FedTrackerPage.tsx
+│   │   │   └── CapitalFlowsPage.tsx
+│   │   ├── settings/
+│   │   │   └── SettingsPage.tsx
+│   │   └── NotFoundPage.tsx
+│   │
+│   ├── features/               # Feature modules
+│   │   ├── auth/
+│   │   │   ├── components/
+│   │   │   ├── hooks/
+│   │   │   ├── api/
+│   │   │   └── types.ts
+│   │   ├── trading/
+│   │   │   ├── components/
+│   │   │   │   ├── TradingChart/
+│   │   │   │   ├── OrderPanel/
+│   │   │   │   ├── PositionManager/
+│   │   │   │   └── OrderFlow/
+│   │   │   ├── hooks/
+│   │   │   ├── stores/
+│   │   │   ├── api/
+│   │   │   └── types.ts
+│   │   ├── backtest/
+│   │   │   ├── components/
+│   │   │   ├── hooks/
+│   │   │   └── types.ts
+│   │   ├── risk/
+│   │   ├── ai/
+│   │   ├── jarvis/
+│   │   ├── macro/
+│   │   └── portfolio/
+│   │
+│   ├── shared/                 # Shared resources
+│   │   ├── components/
+│   │   │   ├── ui/            # shadcn/ui components
+│   │   │   ├── layout/
+│   │   │   │   ├── AppLayout.tsx
+│   │   │   │   ├── Sidebar.tsx
+│   │   │   │   ├── Header.tsx
+│   │   │   │   └── Footer.tsx
+│   │   │   ├── charts/
+│   │   │   ├── forms/
+│   │   │   └── feedback/
+│   │   ├── hooks/
+│   │   │   ├── useWebSocket.ts
+│   │   │   ├── useMediaQuery.ts
+│   │   │   └── useLocalStorage.ts
+│   │   ├── utils/
+│   │   │   ├── format.ts
+│   │   │   ├── calculations.ts
+│   │   │   └── validators.ts
+│   │   ├── constants/
+│   │   │   ├── routes.ts
+│   │   │   ├── api.ts
+│   │   │   └── config.ts
+│   │   ├── types/
+│   │   │   ├── common.ts
+│   │   │   └── api.ts
+│   │   └── api/
+│   │       ├── client.ts
+│   │       └── endpoints.ts
+│   │
+│   ├── stores/                 # Global stores
+│   │   ├── authStore.ts
+│   │   ├── themeStore.ts
+│   │   ├── settingsStore.ts
+│   │   └── websocketStore.ts
+│   │
+│   ├── styles/
+│   │   ├── globals.css
+│   │   └── themes.css
+│   │
+│   ├── main.tsx
+│   └── vite-env.d.ts
+│
+├── .env.example
+├── .eslintrc.cjs
+├── .prettierrc
+├── tsconfig.json
+├── tailwind.config.js
+├── vite.config.ts
+└── package.json
+🗺️ SƏHIFƏLƏR VƏ ROUTING STRUKTURU
+Route Hierarxiyası:
+typescript
+// Public Routes
+/login
+/register
+/forgot-password
+
+// Protected Routes (Authentication required)
+/
+  ├── /dashboard                    # Main dashboard
+  │
+  ├── /trading
+  │   ├── /chart-workbench         # Main trading interface
+  │   ├── /paper-trading           # Virtual trading
+  │   └── /live-trading            # Real trading
+  │
+  ├── /analysis
+  │   ├── /backtest                # Backtest engine
+  │   ├── /risk                    # Risk management panel
+  │   └── /portfolio               # Portfolio analytics
+  │
+  ├── /tools
+  │   ├── /style-builder           # Create custom trading style
+  │   ├── /playbook                # Trading playbook
+  │   ├── /scanner                 # Market scanner
+  │   └── /export                  # Strategy export
+  │
+  ├── /ai
+  │   ├── /oracle                  # AI analytics hub
+  │   ├── /jarvis                  # Voice assistant interface
+  │   └── /signals                 # AI signals dashboard
+  │
+  ├── /macro
+  │   ├── /dashboard               # Macro overview
+  │   ├── /fed-tracker             # Fed policy analysis
+  │   └── /capital-flows           # Global money flows
+  │
+  └── /settings                    # User settings
+Routing Tələbləri:
+Route Protection: Private route komponenti yarat (authentication check)
+Lazy Loading: Bütün səhifələr lazy load olunmalıdır
+Nested Layouts: Trading/Analysis/Tools öz layout-ları ilə
+Deep Linking: Query params ilə state sharing
+404 Handling: Custom NotFound page
+🧩 KOMPONENT ARXİTEKTURASI
+Atomic Design Prinsipləri:
+Atoms (shared/components/ui/):
+
+Button, Input, Select, Checkbox, Radio
+Badge, Avatar, Tooltip, Popover
+Card, Separator, Skeleton
+Alert, Toast notifications
+Molecules (shared/components/):
+
+MetricCard (icon + label + value + change)
+ChartLegend (toggle visibility)
+OrderBookRow (price + size + visual bar)
+PositionCard (summary of open position)
+Organisms (feature/components/):
+
+TradingChart (full chart with controls)
+OrderPanel (order form + history)
+RiskDashboard (multiple risk metrics)
+BacktestResults (charts + tables)
+Templates (pages/):
+
+DashboardTemplate (grid layout for widgets)
+TradingTemplate (chart + sidebars)
+AnalysisTemplate (tabs + content area)
+Pages (pages/):
+
+Actual route components
+🎨 DİZAYN SİSTEMİ TƏLƏBLƏRİ
+Rəng Palitrası (Tailwind Config):
+javascript
+colors: {
+  // Background
+  background: {
+    DEFAULT: '#0f172a',  // slate-900
+    secondary: '#1e293b', // slate-800
+    elevated: '#334155',  // slate-700
+  },
+  
+  // Foreground
+  foreground: {
+    DEFAULT: '#f1f5f9',  // slate-100
+    secondary: '#cbd5e1', // slate-300
+    muted: '#94a3b8',    // slate-400
+  },
+  
+  // Accent colors
+  success: '#10b981',   // green-500
+  danger: '#ef4444',    // red-500
+  warning: '#f59e0b',   // amber-500
+  info: '#3b82f6',      // blue-500
+  
+  // Trading specific
+  bullish: '#10b981',
+  bearish: '#ef4444',
+  neutral: '#6b7280',
+}
+Typography:
+Heading: Inter (variable font)
+Body: Inter
+Mono (numbers/code): 'JetBrains Mono' or 'Roboto Mono'
+Spacing System:
+Tailwind default (4px base)
+Dashboard gaps: 16px (gap-4)
+Section padding: 24px (p-6)
+Border Radius:
+sm: 4px
+md: 8px
+lg: 12px
+📊 STATE MANAGEMENT PLAN
+Zustand Stores:
+typescript
+// stores/authStore.ts
+interface AuthState {
+  user: User | null;
+  isAuthenticated: boolean;
+  login: (credentials) => Promise<void>;
+  logout: () => void;
+}
+
+// stores/themeStore.ts
+interface ThemeState {
+  mode: 'dark' | 'light';
+  toggleTheme: () => void;
+}
+
+// stores/settingsStore.ts
+interface SettingsState {
+  preferences: UserPreferences;
+  updatePreferences: (prefs) => void;
+}
+
+// stores/tradingStore.ts
+interface TradingState {
+  activeSymbol: string;
+  timeframe: string;
+  positions: Position[];
+  setSymbol: (symbol) => void;
+}
+React Query (Server State):
+typescript
+// Queries
+useMarketData(symbol, timeframe)
+useOrderFlow(symbol)
+useBacktestResults(strategyId)
+useRiskMetrics()
+
+// Mutations
+usePlaceOrder()
+useClosePosition()
+useUpdateStrategy()
+⚡ PERFORMANCE REQUİREMENTS
+Initial Load: < 3 saniyə
+Chart Render: < 100ms (1000+ candlesticks üçün)
+Route Change: < 200ms
+WebSocket Update: < 50ms UI-yə keçməli
+Lighthouse Score: 90+ (Performance, Accessibility)
+Optimization Strategies:
+
+Code splitting by route
+React.lazy() for heavy components
+Memoization (useMemo, React.memo) for calculations
+Virtualization for long lists (react-virtual)
+Image optimization (WebP, lazy loading)
+Bundle analyzer ilə monitoring
+🧪 TESTING STRATEGİYASI
+typescript
+// Unit Tests (Vitest)
+- Utility functions
+- Custom hooks
+- Store logic
+- Component logic
+
+// Integration Tests
+- Feature workflows
+- API interactions
+- State updates
+
+// E2E Tests (Playwright)
+- Critical user journeys:
+  1. Login → Dashboard → Open Chart
+  2. Create Backtest → View Results
+  3. Place Paper Trade → Monitor Position
+  4. Voice Command → Execute Trade
+🔧 DEVELOPER SETUP
+TypeScript Config:
+Strict mode enabled
+Path aliases (@/ for src/)
+Type checking for imports
+ESLint Rules:
+React hooks rules
+Import order
+Unused variables check
+Console warnings in production
+Git Workflow:
+Pre-commit: lint + format
+Pre-push: type check + tests
+Branch naming: feature/, fix/, refactor/*
+📝 SƏNƏ KONKRET TAPŞIRIQLAR
+Proyekt strukturunu yarat (folder/file hierarchy)
+Bütün səhifələr üçün boş komponentlər yarat (with proper routing)
+AppLayout, Sidebar, Header komponentlərini tətbiq et
+shadcn/ui-dan əsas komponentləri qur (Button, Card, Input, etc.)
+Auth flow-u tamamla (login, protected routes)
+Theme system qur (dark mode toggle)
+WebSocket connection setup
+TradingChart komponenti üçün baza yarat (Lightweight Charts integration)
+Global stores yarat (auth, theme, settings)
+Dashboard page-ə widget grid sistemi əlavə et
+🎯 İLK MVP ÜÇÜN PRİORİTET SƏHIFƏLƏR
+Login/Register
+Dashboard (main overview)
+Chart Workbench (core trading interface)
+Backtest Page (basic version)
+Settings
+Bu prompt-u Windsurf-a ver və senior frontend developer kimi layihəni strukturlaşdırsın. Hər addımı sənə izah etsin və best practice-lərə əməl etsin.
+
+
+Screenshot from 20251009 183030.png
+prd kimi yaz indi bunu detalli olsun reng olaraqda sadece ag qara boz olsun basqa 2 tehem de elave et pairler ve s basqa seyleride bunun kimi sirlaansin market hissei
+
+PRODUCT REQUIREMENTS DOCUMENT (PRD)
+ATLAS Stock Screener Module
+Version: 1.0
+Date: 19.10.2025
+Owner: Product Team
+Status: Ready for Development
+
+1. EXECUTIVE SUMMARY
+1.1. Məqsəd
+TradingView-in stock screener interfeysinə bənzər, lakin ATLAS platformasının dizayn dili və funksionallığı ilə inteqrasiya olunmuş professional səhm/kripto/FX skan modulu yaratmaq.
+
+1.2. Problem Statement
+İstifadəçilər minlərlə aktivi əllə yoxlaya bilməzlər. Onlara öz kriteriyalarına uyğun aktivləri real-zamanlı filter etmək və sıralamaq imkanı lazımdır.
+
+1.3. Uğur Kriteriyaları
+5000+ aktivin 2 saniyədən az vaxtda yüklənməsi
+Real-time data yeniləməsi (WebSocket)
+Minimum 10 filter kriteriyası dəstəyi
+Export funksiyası (CSV, JSON)
+Watchlist-ə bir kliklə əlavə etmə
+2. SCOPE & FEATURES
+2.1. Core Features (MVP)
+✅ Feature 1: Multi-Asset Support
+Tələb: İstifadəçi aşağıdakı asset class-ları arasında keçid edə bilməlidir:
+
+Stocks (US, EU, Asia markets)
+Crypto (BTC, ETH, Altcoins)
+Forex (Major, Minor, Exotic pairs)
+Commodities (Gold, Oil, Natural Gas)
+Indices (S&P500, NASDAQ, DAX)
+UI Element: Horizontal tab bar və ya dropdown selector
+
+✅ Feature 2: Advanced Filtering System
+2.2.1. Fundamental Filters:
+
+Filter	Type	Options/Range
+Market Cap	Range	$0 - $10T
+P/E Ratio	Range	0 - 1000
+EPS (TTM)	Range	-$100 - $100
+Div Yield %	Range	0% - 20%
+Revenue Growth (YoY)	Range	-100% - +500%
+Sector	Multi-select	Technology, Finance, Healthcare, Energy, etc.
+Analyst Rating	Multi-select	Strong Buy, Buy, Hold, Sell, Strong Sell
+2.2.2. Technical Filters:
+
+Filter	Type	Options
+Price	Range	$0 - $100,000
+Change % (24h)	Range	-50% to +50%
+Volume	Range	0 - 1B
+Relative Volume	Range	0 - 10x
+Beta	Range	-3 to +3
+RSI	Range	0 - 100
+Price vs MA(50)	Dropdown	Above, Below, Crossing Up, Crossing Down
+Price vs MA(200)	Dropdown	Above, Below, Crossing Up, Crossing Down
+2.2.3. Custom Filters (Phase 2):
+
+ICT patterns (FVG, Order Blocks)
+Volume Profile zones
+Smart Money divergence
+✅ Feature 3: Sortable Data Table
+Columns (Məcburi):
+
+Symbol - Ticker + Logo
+Name - Company/Asset name
+Price - Current price
+Change % - 24h/1D change with color coding
+Volume - Trading volume
+Market Cap - Total market value
+P/E Ratio - Price to earnings
+Sector - Industry classification
+Analyst Rating - Consensus rating
+Columns (Optional - User can toggle):
+
+Div Yield %
+EPS (TTM)
+Revenue Growth
+Beta
+52W High/Low
+Average Volume
+Relative Volume
+Table Requirements:
+
+Sortable by any column (ascending/descending)
+Virtual scrolling for 5000+ rows
+Sticky header
+Row hover state
+Click row → open detailed view modal
+✅ Feature 4: Real-time Data Updates
+WebSocket Integration:
+
+Price updates every 1-5 seconds
+Volume updates
+Change % recalculation
+Visual indicator for updated cells (subtle flash animation)
+Rate Limiting:
+
+Max 100 updates/second on screen
+Throttle updates for off-screen rows
+✅ Feature 5: Preset Filters (Quick Access)
+Daxili Presetlər:
+
+Top Gainers - Change % > 5%, Volume > Avg
+Top Losers - Change % < -5%, Volume > Avg
+Most Active - Volume > 2x Average
+High Dividend - Div Yield > 3%
+Undervalued - P/E < 15, Market Cap > $1B
+Growth Stocks - Revenue Growth > 20%, P/E > 30
+Blue Chips - Market Cap > $100B, Analyst Rating = Strong Buy
+Crypto Movers - (Crypto only) Change % > ±10%
+Custom Presets:
+
+İstifadəçi öz filter kombinasiyasını saxlaya bilər
+Preset name + icon seçimi
+Share preset with URL
+✅ Feature 6: Export & Integration
+Export Options:
+
+CSV - All visible columns
+JSON - Full data with metadata
+Watchlist - Add selected rows to watchlist
+Copy to Clipboard - Formatted table
+Watchlist Integration:
+
+Checkbox selection for multiple rows
+"Add to Watchlist" button
+Create new watchlist or add to existing
+✅ Feature 7: Detailed View Modal
+Trigger: Click on any row
+
+Modal Content:
+
+Header: Symbol, Name, Price, Change %
+Tabs:
+Overview - Key metrics summary
+Chart - Lightweight Charts mini chart (TradingView style)
+Fundamentals - Full financial data
+Technicals - Indicators summary
+News - Latest news for this asset
+Actions:
+
+Open in Full Chart Workbench
+Add to Watchlist
+Start Paper Trade
+Set Price Alert
+3. VISUAL DESIGN SYSTEM
+3.1. Rəng Palitrası (Grayscale + 2 Accent)
+Base Colors (Grayscale):
+
+css
+--bg-primary: #0a0a0a        /* Pure black background */
+--bg-secondary: #141414      /* Elevated surfaces */
+--bg-tertiary:
+
+sen o birisin ele  lahiyeni bu sora ederiy bunu kec
+
+SENIOR FRONTEND DEVELOPER PROMPT - ATLAS STOCK SCREENER
+Sən senior frontend developer kimi "ATLAS" platformasının Stock Screener modulunu yaratmalısan. Bu modul TradingView-in stock screener-inə bənzər funksionallığa malik olmalı, lakin ATLAS-ın dizayn sisteminə tam inteqrasiya olunmalıdır.
+
+🎯 MODUL HAQQINDA
+Stock Screener - İstifadəçilərə 5000+ aktivi (stocks, crypto, FX, commodities) real-zamanlı filter etmək, sıralamaq və analiz etmək imkanı verən professional skan alətidir.
+
+Əsas Tələblər:
+
+Multi-asset support (stocks, crypto, forex, commodities)
+10+ filter kriteriyası
+Real-time WebSocket data
+Sortable data table with 5000+ rows
+Export functionality
+Watchlist integration
+Detailed modal view
+📁 FAYL STRUKTURU
+src/
+├── pages/
+│   └── screener/
+│       └── ScreenerPage.tsx
+│
+├── features/
+│   └── screener/
+│       ├── components/
+│       │   ├── ScreenerFilters.tsx
+│       │   ├── ScreenerTable.tsx
+│       │   ├── ScreenerTableRow.tsx
+│       │   ├── ScreenerPresets.tsx
+│       │   ├── AssetTypeSelector.tsx
+│       │   ├── ColumnToggle.tsx
+│       │   ├── ExportMenu.tsx
+│       │   ├── DetailModal.tsx
+│       │   └── FilterDrawer.tsx
+│       │
+│       ├── hooks/
+│       │   ├── useScreenerData.ts
+│       │   ├── useScreenerFilters.ts
+│       │   ├── useScreenerSort.ts
+│       │   └── useScreenerWebSocket.ts
+│       │
+│       ├── stores/
+│       │   └── screenerStore.ts
+│       │
+│       ├── types/
+│       │   └── screener.types.ts
+│       │
+│       └── utils/
+│           ├── filterAssets.ts
+│           ├── sortAssets.ts
+│           └── exportData.ts
+│
+└── shared/
+    └── components/
+        └── VirtualTable.tsx  (reusable)
+📊 DATA STRUKTUR VƏ TYPES
+Asset Interface:
+typescript
+// features/screener/types/screener.types.ts
+
+export type AssetType = 'stock' | 'crypto' | 'forex' | 'commodity' | 'index';
+
+export interface Asset {
+  id: string;
+  symbol: string;
+  name: string;
+  type: AssetType;
+  
+  // Price data
+  price: number;
+  change24h: number;           // percentage
+  changeValue: number;         // absolute
+  volume: number;
+  relativeVolume: number;      // vs average
+  
+  // Market data
+  marketCap: number;
+  avgVolume30d: number;
+  
+  // Fundamental data (stocks only)
+  peRatio?: number;
+  epsTTM?: number;
+  divYield?: number;
+  revenueGrowthYoY?: number;
+  
+  // Classification
+  sector?: string;
+  industry?: string;
+  
+  // Technical
+  beta?: number;
+  rsi?: number;
+  priceVsMA50?: 'above' | 'below';
+  priceVsMA200?: 'above' | 'below';
+  
+  // Analyst data (stocks only)
+  analystRating?: 'strong_buy' | 'buy' | 'hold' | 'sell' | 'strong_sell';
+  
+  // Timestamps
+  lastUpdate: number;
+}
+
+export interface ScreenerFilters {
+  assetType: AssetType[];
+  
+  // Price & Volume
+  priceMin?: number;
+  priceMax?: number;
+  volumeMin?: number;
+  volumeMax?: number;
+  change24hMin?: number;
+  change24hMax?: number;
+  
+  // Market
+  marketCapMin?: number;
+  marketCapMax?: number;
+  
+  // Fundamental
+  peRatioMin?: number;
+  peRatioMax?: number;
+  divYieldMin?: number;
+  divYieldMax?: number;
+  revenueGrowthMin?: number;
+  revenueGrowthMax?: number;
+  
+  // Classification
+  sectors?: string[];
+  analystRatings?: string[];
+  
+  // Technical
+  betaMin?: number;
+  betaMax?: number;
+  rsiMin?: number;
+  rsiMax?: number;
+}
+
+export interface ScreenerPreset {
+  id: string;
+  name: string;
+  icon: string;
+  filters: Partial<ScreenerFilters>;
+}
+
+export interface ScreenerState {
+  assets: Asset[];
+  filteredAssets: Asset[];
+  filters: ScreenerFilters;
+  sortBy: keyof Asset;
+  sortOrder: 'asc' | 'desc';
+  selectedAssets: string[];
+  loading: boolean;
+  error: string | null;
+}
+🎨 DİZAYN SİSTEMİ (Grayscale + 2 Accent)
+Rəng Palitrası:
+javascript
+// tailwind.config.js
+
+colors: {
+  // Grayscale System
+  black: {
+    pure: '#000000',
+    950: '#0a0a0a',
+    900: '#141414',
+    800: '#1f1f1f',
+  },
+  
+  gray: {
+    700: '#2a2a2a',
+    600: '#404040',
+    500: '#666666',
+    400: '#8c8c8c',
+    300: '#b3b3b3',
+    200: '#d9d9d9',
+    100: '#f0f0f0',
+  },
+  
+  white: {
+    pure: '#ffffff',
+    off: '#fafafa',
+  },
+  
+  // 2 Accent Colors
+  accent: {
+    primary: {
+      DEFAULT: '#3b82f6',    // Blue (info, actions)
+      dark: '#2563eb',
+      light: '#60a5fa',
+    },
+    secondary: {
+      DEFAULT: '#10b981',    // Green (success, positive)
+      dark: '#059669',
+      light: '#34d399',
+    },
+  },
+  
+  // Semantic Colors (built from accents)
+  success: '#10b981',
+  danger: '#ef4444',
+  warning: '#f59e0b',
+  info: '#3b82f6',
+}
+Component Colors:
+css
+/* Background Hierarchy */
+--bg-base: #0a0a0a         /* Page background */
+--bg-elevated: #141414     /* Cards, tables */
+--bg-hover: #1f1f1f        /* Hover states */
+--bg-active: #2a2a2a       /* Active/selected */
+
+/* Borders */
+--border-default: #2a2a2a
+--border-hover: #404040
+--border-focus: #3b82f6    /* Accent primary */
+
+/* Text */
+--text-primary: #ffffff
+--text-secondary: #b3b3b3
+--text-tertiary: #8c8c8c
+--text-disabled: #666666
+
+/* Data Visualization */
+--chart-positive: #10b981  /* Green (up) */
+--chart-negative: #ef4444  /* Red (down) */
+--chart-neutral: #8c8c8c   /* Gray */
+🧩 KOMPONENT SPESIFIKASIYALARI
+1. ScreenerPage.tsx (Main Layout)
+typescript
+import { ScreenerFilters } from './components/ScreenerFilters';
+import { ScreenerTable } from './components/ScreenerTable';
+import { ScreenerPresets } from './components/ScreenerPresets';
+import { useScreenerData } from './hooks/useScreenerData';
+
+export function ScreenerPage() {
+  const { assets, loading, error } = useScreenerData();
+  
+  return (
+    <div className="flex h-screen bg-black-950">
+      {/* Left Sidebar - Filters */}
+      <aside className="w-80 bg-black-900 border-r border-gray-700">
+        <ScreenerFilters />
+      </aside>
+      
+      {/* Main Content */}
+      <main className="flex-1 flex flex-col">
+        {/* Top Bar - Presets & Actions */}
+        <div className="h-16 bg-black-900 border-b border-gray-700">
+          <ScreenerPresets />
+        </div>
+        
+        {/* Data Table */}
+        <div className="flex-1 overflow-hidden">
+          <ScreenerTable 
+            assets={assets} 
+            loading={loading}
+            error={error}
+          />
+        </div>
+      </main>
+    </div>
+  );
+}
+```
+
+**Layout Tələbləri:**
+- Left sidebar: 320px fixed width (collapsible)
+- Top bar: 64px fixed height
+- Table: remaining space with overflow handling
+- Responsive: sidebar collapses to drawer on mobile
+
+---
+
+### **2. ScreenerFilters.tsx**
+
+**UI Structure:**
+```
+┌─ Asset Type Tabs ────────────┐
+│ [Stocks] [Crypto] [FX] [...] │
+├──────────────────────────────┤
+│ 🔍 Quick Search              │
+├──────────────────────────────┤
+│ Price                        │
+│  ├─ Min: [____]              │
+│  └─ Max: [____]              │
+├──────────────────────────────┤
+│ Market Cap                   │
+│  ├─ Min: [____]              │
+│  └─ Max: [____]              │
+├──────────────────────────────┤
+│ Change % (24h)               │
+│  [===|========] -10% to +15% │
+├──────────────────────────────┤
+│ Volume                       │
+│  ├─ Min: [____]              │
+│  └─ Max: [____]              │
+├──────────────────────────────┤
+│ Sector (Multi-select)        │
+│  ☐ Technology                │
+│  ☐ Finance                   │
+│  ☐ Healthcare                │
+├──────────────────────────────┤
+│ [Reset Filters] [Apply]      │
+└──────────────────────────────┘
+Component Code:
+
+typescript
+export function ScreenerFilters() {
+  const { filters, updateFilters, resetFilters } = useScreenerFilters();
+  
+  return (
+    <div className="h-full flex flex-col">
+      {/* Asset Type Selector */}
+      <AssetTypeSelector 
+        selected={filters.assetType}
+        onChange={(types) => updateFilters({ assetType: types })}
+      />
+      
+      {/* Search */}
+      <Input 
+        placeholder="Search symbol or name..."
+        className="m-4"
+      />
+      
+      {/* Filters (Scrollable) */}
+      <ScrollArea className="flex-1 px-4">
+        {/* Price Filter */}
+        <FilterSection title="Price">
+          <RangeInput 
+            min={filters.priceMin}
+            max={filters.priceMax}
+            onChange={(min, max) => updateFilters({ priceMin: min, priceMax: max })}
+          />
+        </FilterSection>
+        
+        {/* Market Cap */}
+        <FilterSection title="Market Cap">
+          <RangeInput 
+            min={filters.marketCapMin}
+            max={filters.marketCapMax}
+            format="compact" // $1.5B format
+          />
+        </FilterSection>
+        
+        {/* Sector Multi-select */}
+        <FilterSection title="Sector">
+          <MultiSelect
+            options={SECTORS}
+            selected={filters.sectors}
+            onChange={(sectors) => updateFilters({ sectors })}
+          />
+        </FilterSection>
+        
+        {/* More filters... */}
+      </ScrollArea>
+      
+      {/* Actions */}
+      <div className="p-4 border-t border-gray-700 flex gap-2">
+        <Button variant="ghost" onClick={resetFilters}>
+          Reset
+        </Button>
+        <Button variant="primary" className="flex-1">
+          Apply Filters
+        </Button>
+      </div>
+    </div>
+  );
+}
+Styling:
+
+Background: bg-black-900
+Borders: border-gray-700
+Text: text-white (labels), text-gray-300 (values)
+Inputs: bg-black-800 border-gray-600 focus:border-accent-primary
+3. ScreenerTable.tsx (Core Component)
+Requirements:
+
+Virtual scrolling (react-virtual) for 5000+ rows
+Sortable columns
+Sticky header
+Row selection (checkbox)
+Real-time updates
+Hover effects
+typescript
+import { useVirtualizer } from '@tanstack/react-virtual';
+import { useScreenerSort } from '../hooks/useScreenerSort';
+
+export function ScreenerTable({ assets, loading }: ScreenerTableProps) {
+  const { sortedAssets, sortBy, sortOrder, handleSort } = useScreenerSort(assets);
+  const parentRef = useRef<HTMLDivElement>(null);
+  
+  const rowVirtualizer = useVirtualizer({
+    count: sortedAssets.length,
+    getScrollElement: () => parentRef.current,
+    estimateSize: () => 48, // row height
+    overscan: 10,
+  });
+  
+  if (loading) return <TableSkeleton />;
+  
+  return (
+    <div ref={parentRef} className="h-full overflow-auto bg-black-950">
+      {/* Header */}
+      <div className="sticky top-0 z-10 bg-black-900 border-b border-gray-700">
+        <div className="flex items-center h-12 px-4 text-sm font-medium text-gray-300">
+          <div className="w-8">
+            <Checkbox />
+          </div>
+          <ColumnHeader 
+            label="Symbol" 
+            sortKey="symbol"
+            width="w-32"
+          />
+          <ColumnHeader 
+            label="Name" 
+            sortKey="name"
+            width="flex-1"
+          />
+          <ColumnHeader 
+            label="Price" 
+            sortKey="price"
+            width="w-28"
+            align="right"
+          />
+          <ColumnHeader 
+            label="Change %" 
+            sortKey="change24h"
+            width="w-28"
+            align="right"
+          />
+          <ColumnHeader 
+            label="Volume" 
+            sortKey="volume"
+            width="w-32"
+            align="right"
+          />
+          <ColumnHeader 
+            label="Market Cap" 
+            sortKey="marketCap"
+            width="w-32"
+            align="right"
+          />
+          {/* More columns... */}
+        </div>
+      </div>
+      
+      {/* Virtual Rows */}
+      <div
+        style={{
+          height: `${rowVirtualizer.getTotalSize()}px`,
+          position: 'relative',
+        }}
+      >
+        {rowVirtualizer.getVirtualItems().map((virtualRow) => {
+          const asset = sortedAssets[virtualRow.index];
+          return (
+            <ScreenerTableRow
+              key={asset.id}
+              asset={asset}
+              style={{
+                position: 'absolute',
+                top: 0,
+                left: 0,
+                width: '100%',
+                height: `${virtualRow.size}px`,
+                transform: `translateY(${virtualRow.start}px)`,
+              }}
+            />
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+4. ScreenerTableRow.tsx
+typescript
+export function ScreenerTableRow({ asset, style }: RowProps) {
+  const [isSelected, setIsSelected] = useState(false);
+  const [showModal, setShowModal] = useState(false);
+  
+  return (
+    <>
+      <div 
+        style={style}
+        className={cn(
+          "flex items-center px-4 border-b border-gray-800",
+          "hover:bg-black-800 transition-colors cursor-pointer",
+          isSelected && "bg-black-800"
+        )}
+        onClick={() => setShowModal(true)}
+      >
+        {/* Checkbox */}
+        <div className="w-8">
+          <Checkbox 
+            checked={isSelected}
+            onCheckedChange={setIsSelected}
+            onClick={(e) => e.stopPropagation()}
+          />
+        </div>
+        
+        {/* Symbol */}
+        <div className="w-32 flex items-center gap-2">
+          <AssetLogo symbol={asset.symbol} size={24} />
+          <span className="font-mono font-medium text-white">
+            {asset.symbol}
+          </span>
+        </div>
+        
+        {/* Name */}
+        <div className="flex-1 text-gray-300 truncate">
+          {asset.name}
+        </div>
+        
+        {/* Price */}
+        <div className="w-28 text-right font-mono text-white">
+          ${formatNumber(asset.price)}
+        </div>
+        
+        {/* Change % */}
+        <div className={cn(
+          "w-28 text-right font-mono font-medium",
+          asset.change24h >= 0 ? "text-success" : "text-danger"
+        )}>
+          {asset.change24h >= 0 ? '+' : ''}
+          {formatPercent(asset.change24h)}
+        </div>
+        
+        {/* Volume */}
+        <div className="w-32 text-right font-mono text-gray-300">
+          {formatCompact(asset.volume)}
+        </div>
+        
+        {/* Market Cap */}
+        <div className="w-32 text-right font-mono text-gray-300">
+          ${formatCompact(asset.marketCap)}
+        </div>
+      </div>
+      
+      {/* Detail Modal */}
+      {showModal && (
+        <DetailModal 
+          asset={asset} 
+          onClose={() => setShowModal(false)} 
+        />
+      )}
+    </>
+  );
+}
+Styling Details:
+
+Row height: 48px
+Hover: bg-black-800
+Selected: bg-black-800
+Border: border-gray-800
+Text: Positive = text-success (
+#10b981), Negative = text-danger (
+#ef4444)
+5. ScreenerPresets.tsx (Top Bar)
+typescript
+const PRESETS: ScreenerPreset[] = [
+  {
+    id: 'top-gainers',
+    name: 'Top Gainers',
+    icon: '📈',
+    filters: { change24hMin: 5 }
+  },
+  {
+    id: 'top-losers',
+    name: 'Top Losers',
+    icon: '📉',
+    filters: { change24hMax: -5 }
+  },
+  {
+    id: 'most-active',
+    name: 'Most Active',
+    icon: '🔥',
+    filters: { relativeVolumeMin: 2 }
+  },
+  // More presets...
+];
+
+export function ScreenerPresets() {
+  const { applyPreset } = useScreenerFilters();
+  
+  return (
+    <div className="h-full flex items-center justify-between px-6 bg-black-900">
+      {/* Preset Buttons */}
+      <div className="flex items-center gap-2">
+        {PRESETS.map((preset) => (
+          <Button
+            key={preset.id}
+            variant="ghost"
+            size="sm"
+            onClick={() => applyPreset(preset.filters)}
+            className="text-gray-300 hover:text-white hover:bg-black-800"
+          >
+            <span className="mr-2">{preset.icon}</span>
+            {preset.name}
+          </Button>
+        ))}
+      </div>
+      
+      {/* Actions */}
+      <div className="flex items-center gap-3">
+        <Button variant="ghost" size="sm">
+          <ColumnIcon className="mr-2" />
+          Columns
+        </Button>
+        
+        <ExportMenu />
+        
+        <Button variant="primary" size="sm">
+          Add to Watchlist
+        </Button>
+      </div>
+    </div>
+  );
+}
+🔌 WEBSOCKET INTEGRATION
+typescript
+// hooks/useScreenerWebSocket.ts
+
+export function useScreenerWebSocket(assetIds: string[]) {
+  const updateAsset = useScreenerStore((state) => state.updateAsset);
+  
+  useEffect(() => {
+    const socket = io(WEBSOCKET_URL);
+    
+    // Subscribe to price updates
+    socket.emit('subscribe:screener', { assetIds });
+    
+    socket.on('price:update', (data: PriceUpdate) => {
+      updateAsset(data.assetId, {
+        price: data.price,
+        change24h: data.change24h,
+        volume: data.volume,
+        lastUpdate: Date.now(),
+      });
+    });
+    
+    return () => {
+      socket.emit('unsubscribe:screener');
+      socket.disconnect();
+    };
+  }, [assetIds]);
+}
+Update Animation:
+
+Price increases: green flash (200ms)
+Price decreases: red flash (200ms)
+Implementation: animate-flash-green Tailwind class
+📤 EXPORT FUNCTIONALITY
+typescript
+// utils/exportData.ts
+
+export function exportToCSV(assets: Asset[]) {
+  const headers = ['Symbol', 'Name', 'Price', 'Change %', 'Volume', 'Market Cap'];
+  const rows = assets.map(a => [
+    a.symbol,
+    a.name,
+    a.price,
+    a.change24h,
+    a.volume,
+    a.marketCap,
+  ]);
+  
+  const csv = [headers, ...rows]
+    .map(row => row.join(','))
+    .join('\n');
+  
+  downloadFile('screener-export.csv', csv, 'text/csv');
+}
+
+export function exportToJSON(assets: Asset[]) {
+  const json = JSON.stringify(assets, null, 2);
+  downloadFile('screener-export.json', json, 'application/json');
+}
+
+function downloadFile(filename: string, content: string, type: string) {
+  const blob = new Blob([content], { type });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = filename;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+⚡ PERFORMANCE REQUİREMENTS
+Initial Load: < 2s (5000 assets)
+Filter Application: < 100ms
+Sort: < 50ms
+Scroll Performance: 60 FPS
+WebSocket Update Processing: < 50ms
+Optimizations:
+
+Virtual scrolling (only render visible rows)
+Memoize filtered/sorted data
+Debounce filter inputs (300ms)
+Web Worker for heavy calculations
+Indexed DB for offline caching
+🧪 TESTING CHECKLİST
+ Filter by price range
+ Filter by multiple sectors
+ Sort by each column
+ Select multiple rows
+ Export to CSV/JSON
+ Add to watchlist
+ Real-time price updates
+ Modal detail view
+ Responsive layout (mobile)
+ 5000+ rows performance
+ Preset filters work
+ Column toggle
+ Search functionality
+📝 İLK ADDIMLAR
+Boilerplate yaradın:
+ScreenerPage.tsx (empty layout)
+Folder structure (components, hooks, stores)
+Types definition
+Mock data generatorunu yazın:
+typescript
+   function generateMockAssets(count: number): Asset[]
+ScreenerTable-i tətbiq edin:
+Virtual scrolling setup
+Static columns (no filters yet)
+Hover states
+Filters əlavə edin:
+Price range filter
+Change % filter
+2-3 basic filters
+Sort funksiyasını əlavə edin
+WebSocket inteqrasiyası
+Export functionality
+Presets
+Detail Modal
+Polish və optimizasiya
+Bu prompt-u Windsurf-a ver və Stock Screener modulunu yaratmağa başlasın.
+
+
+umumi nece dene page olacaq her birinin dizaynve dailixndeolacaq her seyi yaz
+
+ATLAS PLATFORM - COMPLETE PAGE STRUCTURE & DESIGN SPECIFICATION
+📊 ÜMUMI STATİSTİKA
+Cəmi Səhifələr: 47 səhifə
+Əsas Bölmələr: 8 bölmə
+Authentication: 3 səhifə
+Core Trading: 12 səhifə
+Analysis & Tools: 15 səhifə
+AI Features: 7 səhifə
+Macro & Institutional: 6 səhifə
+Settings & Support: 4 səhifə
+
+🎨 GLOBAL DİZAYN SİSTEMİ (Bütün səhifələr üçün)
+Rəng Palitrası
+javascript
+// Grayscale Base
+--bg-app: #000000           // Pure black app background
+--bg-primary: #0a0a0a       // Primary surfaces
+--bg-secondary: #141414     // Elevated surfaces (cards, modals)
+--bg-tertiary: #1f1f1f      // Hover states
+--bg-active: #2a2a2a        // Active/selected states
+
+--border-subtle: #1f1f1f    // Subtle borders
+--border-default: #2a2a2a   // Default borders
+--border-strong: #404040    // Strong borders/dividers
+
+--text-primary: #ffffff     // Main text
+--text-secondary: #b3b3b3   // Secondary text
+--text-tertiary: #8c8c8c    // Tertiary text/hints
+--text-disabled: #666666    // Disabled text
+
+// 2 Accent Colors
+--accent-primary: #3b82f6   // Blue (actions, links, info)
+--accent-secondary: #10b981 // Green (success, positive changes)
+
+// Semantic (derived from accents)
+--success: #10b981          // Green
+--danger: #ef4444           // Red
+--warning: #f59e0b          // Amber
+--info: #3b82f6            // Blue
+Typography
+css
+/* Font Families */
+--font-primary: 'Inter', sans-serif;        /* UI text */
+--font-mono: 'JetBrains Mono', monospace;   /* Numbers, code */
+
+/* Font Sizes */
+--text-xs: 0.75rem;      /* 12px */
+--text-sm: 0.875rem;     /* 14px */
+--text-base: 1rem;       /* 16px */
+--text-lg: 1.125rem;     /* 18px */
+--text-xl: 1.25rem;      /* 20px */
+--text-2xl: 1.5rem;      /* 24px */
+--text-3xl: 1.875rem;    /* 30px */
+--text-4xl: 2.25rem;     /* 36px */
+
+/* Font Weights */
+--font-normal: 400;
+--font-medium: 500;
+--font-semibold: 600;
+--font-bold: 700;
+Spacing System
+css
+--space-1: 0.25rem;   /* 4px */
+--space-2: 0.5rem;    /* 8px */
+--space-3: 0.75rem;   /* 12px */
+--space-4: 1rem;      /* 16px */
+--space-5: 1.25rem;   /* 20px */
+--space-6: 1.5rem;    /* 24px */
+--space-8: 2rem;      /* 32px */
+--space-10: 2.5rem;   /* 40px */
+--space-12: 3rem;     /* 48px */
+--space-16: 4rem;     /* 64px */
+Border Radius
+css
+--radius-sm: 4px;
+--radius-md: 8px;
+--radius-lg: 12px;
+--radius-xl: 16px;
+--radius-full: 9999px;
+Shadows
+css
+--shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.3);
+--shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.4);
+--shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.5);
+--shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.6);
+🏗️ LAYOUT STRUKTURU (Bütün səhifələr üçün)
+AppLayout Component
+typescript
+export function AppLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <div className="h-screen flex bg-black overflow-hidden">
+      {/* Sidebar - 280px */}
+      <Sidebar />
+      
+      {/* Main Content Area */}
+      <div className="flex-1 flex flex-col">
+        {/* Top Header - 64px */}
+        <Header />
+        
+        {/* Page Content - remaining height */}
+        <main className="flex-1 overflow-auto">
+          {children}
+        </main>
+      </div>
+    </div>
+  );
+}
+```
+
+**Layout Measurements:**
+- Sidebar Width: 280px (collapsible to 64px)
+- Header Height: 64px
+- Content Area: calc(100vh - 64px)
+- Content Padding: 24px (p-6)
+
+---
+
+## 📋 BÜTÜN SƏHİFƏLƏRİN SİYAHISI VƏ DİZAYNI
+
+---
+
+## 1️⃣ AUTHENTICATION & ONBOARDING (3 səhifə)
+
+### **1.1. Login Page** (`/login`)
+
+**Layout Type:** Centered, Full-screen  
+**No Sidebar/Header**
+
+**Dizayn:**
+```
+┌─────────────────────────────────────┐
+│                                     │
+│         [ATLAS Logo]                │
+│   Advanced Trading Platform         │
+│                                     │
+│   ┌─────────────────────────┐      │
+│   │ Email                   │      │
+│   │ [________________]      │      │
+│   │                         │      │
+│   │ Password                │      │
+│   │ [________________] 👁️   │      │
+│   │                         │      │
+│   │ [ ] Remember me         │      │
+│   │                         │      │
+│   │ [    Login Button    ]  │      │
+│   │                         │      │
+│   │ ─── or continue with ───│      │
+│   │                         │      │
+│   │ [Google] [Github]       │      │
+│   │                         │      │
+│   │ Forgot password?        │      │
+│   │ Don't have account?     │      │
+│   └─────────────────────────┘      │
+│                                     │
+└─────────────────────────────────────┘
+```
+
+**Elements:**
+- Background: `bg-black` with subtle gradient overlay
+- Card: `bg-bg-secondary` (400px width, centered)
+- Logo: 48px height, white color
+- Inputs: `bg-bg-tertiary border-border-default`
+- Button: `bg-accent-primary hover:bg-accent-primary/90`
+- Links: `text-accent-primary`
+
+**Features:**
+- Email validation
+- Password strength meter
+- "Show password" toggle
+- OAuth integration (Google, Github)
+- Error messages inline
+- Loading state
+
+---
+
+### **1.2. Register Page** (`/register`)
+
+**Layout Type:** Centered, Full-screen  
+**Similar to Login**
+
+**Additional Fields:**
+- Full Name
+- Email
+- Password
+- Confirm Password
+- Trader Type: Dropdown (Retail, Prop Trader, Institutional)
+- Terms & Conditions checkbox
+
+**Unique Elements:**
+- Password strength indicator (weak/medium/strong)
+- Real-time email availability check
+- Multi-step form (optional):
+  1. Basic Info
+  2. Trading Experience
+  3. Verification
+
+---
+
+### **1.3. Forgot Password Page** (`/forgot-password`)
+
+**Layout Type:** Centered, Minimal
+
+**Flow:**
+1. Enter email
+2. Confirmation message
+3. Check email prompt
+
+---
+
+## 2️⃣ MAIN DASHBOARD (1 səhifə)
+
+### **2.1. Dashboard Home** (`/dashboard`)
+
+**Layout Type:** Grid-based, Widget system
+
+**Dizayn:**
+```
+┌─ Top Stats Bar ────────────────────────────────────────────┐
+│ Portfolio Value    Today P&L     Win Rate     Active Pos   │
+│ $127,450.00       +$2,340 (1.8%) 68%          12           │
+└────────────────────────────────────────────────────────────┘
+
+┌─ Main Content Grid (3 columns) ────────────────────────────┐
+│                                                             │
+│ ┌─ Equity Curve (col-span-2) ───┐ ┌─ Top Movers ────────┐ │
+│ │                                │ │ BTC/USD  +5.2%      │ │
+│ │  [Line chart showing growth]   │ │ ETH/USD  +3.8%      │ │
+│ │                                │ │ EUR/USD  -1.2%      │ │
+│ └────────────────────────────────┘ └─────────────────────┘ │
+│                                                             │
+│ ┌─ Active Positions ─────────────┐ ┌─ AI Signals ───────┐ │
+│ │ Symbol  Entry  P&L   Actions   │ │ High confidence    │ │
+│ │ AAPL    $175   +$240  [Close]  │ │ setups detected    │ │
+│ │ BTC     42.5k  +$1.2k [Close]  │ │ [View All]         │ │
+│ └────────────────────────────────┘ └─────────────────────┘ │
+│                                                             │
+│ ┌─ Risk Metrics ─────────────────┐ ┌─ Economic Calendar ┐ │
+│ │ Daily VaR: $2,450              │ │ 🔴 Fed Speech 2PM  │ │
+│ │ Portfolio Beta: 1.15           │ │ 🟡 GDP 8:30 AM     │ │
+│ │ Sharpe Ratio: 2.3              │ │                    │ │
+│ └────────────────────────────────┘ └─────────────────────┘ │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+Widget Components:
+
+Portfolio Overview Widget
+Size: col-span-2
+Content: Equity curve chart (Recharts)
+Height: 320px
+Background: bg-bg-secondary
+Border: border border-border-default
+Top Movers Widget
+Size: col-span-1
+Content: List of assets with change %
+Height: 320px
+Scrollable list
+Active Positions Widget
+Size: col-span-2
+Content: Table with open trades
+Actions: Close, Edit SL/TP
+Height: 280px
+AI Signals Widget
+Size: col-span-1
+Content: Signal cards
+Height: 280px
+Risk Metrics Widget
+Size: col-span-1
+Content: Key risk numbers
+Height: 200px
+Economic Calendar Widget
+Size: col-span-1
+Content: Upcoming events
+Height: 200px
+Widget Features:
+
+Drag-and-drop to reorder
+Resize handles
+Minimize/maximize
+Remove widget
+Settings per widget
+Grid System:
+
+css
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  padding: 1.5rem;
+}
+```
+
+---
+
+## 3️⃣ TRADING PAGES (12 səhifə)
+
+### **3.1. Chart Workbench** (`/trading/chart-workbench`)
+
+**Layout Type:** Full-screen, Multi-panel
+
+**Dizayn:**
+```
+┌─ Top Toolbar (64px) ───────────────────────────────────────┐
+│ [EUR/USD ▼] [15m ▼] [Indicators] [Drawing] [Layouts] [⚙️] │
+└────────────────────────────────────────────────────────────┘
+
+┌─ Main Layout ──────────────────────────────────────────────┐
+│                                                             │
+│ ┌─ Chart Area (70%) ────────────────────────────────────┐ │
+│ │                                                         │ │
+│ │    [Candlestick chart with indicators]                 │ │
+│ │                                                         │ │
+│ │    [Volume bars below]                                  │ │
+│ │                                                         │ │
+│ └─────────────────────────────────────────────────────────┘ │
+│                                                             │
+│ ┌─ Right Sidebar (30%) ──────────────────────────────────┐ │
+│ │ [Tabs: Order | Positions | History | Watchlist]       │ │
+│ │                                                         │ │
+│ │ ┌─ Order Panel ──────────────────┐                     │ │
+│ │ │ Type: [Market ▼]               │                     │ │
+│ │ │ Side: [BUY] [SELL]             │                     │ │
+│ │ │ Amount: [_______] EUR          │                     │ │
+│ │ │ Stop Loss: [_______]           │                     │ │
+│ │ │ Take Profit: [_______]         │                     │ │
+│ │ │ Risk: 1.5% ($750)              │                     │ │
+│ │ │ [Place Order]                  │                     │ │
+│ │ └────────────────────────────────┘                     │ │
+│ │                                                         │ │
+│ │ ┌─ Open Positions ───────────────┐                     │ │
+│ │ │ EUR/USD  +$240  [Close]        │                     │ │
+│ │ │ GBP/JPY  -$120  [Close]        │                     │ │
+│ │ └────────────────────────────────┘                     │ │
+│ └─────────────────────────────────────────────────────────┘ │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Chart Features:**
+- Lightweight Charts library
+- Timeframes: 1m, 5m, 15m, 1h, 4h, 1D, 1W
+- Chart types: Candlestick, Line, Bars, Heikin-Ashi
+- 50+ indicators (EMA, SMA, RSI, MACD, Bollinger, etc.)
+- Drawing tools: Trendline, Horizontal, Fibonacci, etc.
+- Smart Money overlays: FVG, Order Blocks, Liquidity Zones
+- Price alerts on chart
+- Order visualization (pending, filled)
+- Multi-timeframe view (picture-in-picture)
+
+**Right Sidebar Tabs:**
+
+1. **Order Tab:**
+   - Market/Limit/Stop order types
+   - Advanced: OCO, Trailing Stop
+   - One-click trading toggle
+   - Risk calculator
+   - Position size calculator
+
+2. **Positions Tab:**
+   - Open positions list
+   - P&L real-time
+   - Modify SL/TP
+   - Partial close
+   - Add to position
+
+3. **History Tab:**
+   - Closed trades
+   - Pending orders
+   - Canceled orders
+   - Filter by date/symbol
+
+4. **Watchlist Tab:**
+   - Multiple watchlists
+   - Quick switch between symbols
+   - Mini charts
+   - Price alerts
+
+**Performance:**
+- Chart renders < 100ms
+- WebSocket updates < 50ms
+- Smooth pan/zoom 60fps
+
+---
+
+### **3.2. Paper Trading** (`/trading/paper-trading`)
+
+**Layout Type:** Same as Chart Workbench
+
+**Unique Elements:**
+- Virtual balance indicator (top-right)
+- "Paper Mode" badge
+- Reset account button
+- Performance stats widget
+- Leaderboard (compare with other users)
+
+**Features:**
+- Starts with $100,000 virtual
+- All features like real trading
+- Historical replay mode
+- No real money risk
+
+---
+
+### **3.3. Live Trading** (`/trading/live-trading`)
+
+**Layout Type:** Same as Chart Workbench
+
+**Unique Elements:**
+- Real balance display
+- Broker connection status
+- Margin/leverage info
+- Risk warnings
+- 2FA confirmation for trades
+
+**Safety Features:**
+- Confirmation dialog for every trade
+- Daily loss limit
+- Position size limits
+- Emergency close all button
+
+---
+
+### **3.4. Order Flow Analysis** (`/trading/order-flow`)
+
+**Layout Type:** Specialized, Heatmap-focused
+
+**Dizayn:**
+```
+┌─ Chart + Heatmap ──────────────────────────────────────────┐
+│                                                             │
+│ ┌─ Price Chart (top half) ────────────────────────────────┐│
+│ │ [Candlestick chart]                                      ││
+│ └──────────────────────────────────────────────────────────┘│
+│                                                             │
+│ ┌─ Order Flow Heatmap (bottom half) ──────────────────────┐│
+│ │                                                          ││
+│ │  Price │ Bid Volume │ Ask Volume │ Delta │ CVD          ││
+│ │ ────────────────────────────────────────────────────     ││
+│ │  1.0850│ ████████  │ ███       │  +500 │ +2.3k        ││
+│ │  1.0849│ █████     │ ████████  │  -300 │ +2.0k        ││
+│ │  1.0848│ ███       │ ██        │  +100 │ +2.3k        ││
+│ │                                                          ││
+│ └──────────────────────────────────────────────────────────┘│
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Right Panel ──────────────────────────────────────────────┐
+│ ┌─ Large Orders ────────────────────────────────────────┐  │
+│ │ Time      Side  Size    Price    Type                 │  │
+│ │ 14:32:15  BUY   250k    1.0845   Market               │  │
+│ │ 14:31:50  SELL  180k    1.0847   Limit                │  │
+│ └───────────────────────────────────────────────────────┘  │
+│                                                             │
+│ ┌─ Imbalance Zones ─────────────────────────────────────┐  │
+│ │ Strong Buy Imbalance: 1.0840-1.0843                   │  │
+│ │ Weak Sell: 1.0850-1.0852                              │  │
+│ └───────────────────────────────────────────────────────┘  │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Features:**
+- Footprint chart
+- Delta analysis
+- Cumulative Volume Delta (CVD)
+- Absorption/Exhaustion detection
+- Large order alerts
+- Bid/Ask imbalance zones
+
+---
+
+### **3.5. Volume Profile** (`/trading/volume-profile`)
+
+**Layout Type:** Chart-centric
+
+**Features:**
+- Volume Profile overlay
+- POC (Point of Control) line
+- Value Area High/Low
+- Volume by price histogram
+- Market Profile letters
+- Time Price Opportunities (TPO)
+
+---
+
+### **3.6. Market Depth (Level 2)** (`/trading/market-depth`)
+
+**Dizayn:**
+```
+┌─ Order Book ───────────────────────────────────────────────┐
+│                                                             │
+│  ┌─ Asks (Sellers) ─────────────────────────────────────┐  │
+│  │ Price      Amount      Total      ███████████        │  │
+│  │ 1.0855     12.5k       12.5k      ████████           │  │
+│  │ 1.0854     8.2k        20.7k      ██████             │  │
+│  │ 1.0853     15.0k       35.7k      ████████████       │  │
+│  └──────────────────────────────────────────────────────┘  │
+│                                                             │
+│  ┌─────────── SPREAD: 2 pips ──────────────────────────┐   │
+│  │           Last Price: 1.0850                         │   │
+│  └──────────────────────────────────────────────────────┘   │
+│                                                             │
+│  ┌─ Bids (Buyers) ──────────────────────────────────────┐  │
+│  │ Price      Amount      Total      ████████████       │  │
+│  │ 1.0848     18.3k       18.3k      ███████████████    │  │
+│  │ 1.0847     6.5k        24.8k      █████              │  │
+│  │ 1.0846     22.1k       46.9k      █████████████████  │  │
+│  └──────────────────────────────────────────────────────┘  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Features:**
+- Real-time order book
+- Depth visualization (bars)
+- Large order highlighting
+- Spread monitor
+- Order book imbalance indicator
+
+---
+
+### **3.7. Smart Money Concepts** (`/trading/smart-money`)
+
+**Layout Type:** Annotated chart
+
+**Features:**
+- Fair Value Gaps (FVG) auto-detection
+- Order Blocks (OB) marking
+- Break of Structure (BOS)
+- Change of Character (ChoCh)
+- Liquidity grabs visualization
+- Institutional order flow zones
+- Premium/Discount zones
+- Equal highs/lows highlighting
+
+**Dizayn:**
+- Chart with automatic annotations
+- Legend explaining each concept
+- Toggle each layer on/off
+- Alert when new pattern forms
+
+---
+
+### **3.8. Price Action Scanner** (`/trading/price-action`)
+
+**Layout Type:** Table + Preview
+
+**Features:**
+- Scan for candlestick patterns
+- Support/resistance breaks
+- Trendline breaks
+- Chart pattern recognition (H&S, Triangle, Wedge)
+- Multi-timeframe scan
+- Filter by confidence level
+
+---
+
+### **3.9. News & Sentiment** (`/trading/news`)
+
+**Dizayn:**
+```
+┌─ Filters ──────────────────────────────────────────────────┐
+│ [All Sources ▼] [Impact: High ▼] [Today ▼]                │
+└────────────────────────────────────────────────────────────┘
+
+┌─ News Feed ────────────────────────────────────────────────┐
+│                                                             │
+│ ┌─ High Impact ─────────────────────────────────────────┐  │
+│ │ 🔴 Fed Chair Powell Speech on Inflation                │  │
+│ │ 2 hours ago | Impact: EUR, USD, Gold                   │  │
+│ │ Market Sentiment: 🔴 Bearish (65%)                     │  │
+│ │ [Read More] [Related Assets]                           │  │
+│ └─────────────────────────────────────────────────────────┘ │
+│                                                             │
+│ ┌─ Medium Impact ───────────────────────────────────────┐  │
+│ │ 🟡 Bitcoin ETF Approval Rumors                         │  │
+│ │ 5 hours ago | Impact: BTC, Crypto                      │  │
+│ │ Social Sentiment: 🟢 Bullish (72%)                     │  │
+│ └─────────────────────────────────────────────────────────┘ │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Right Panel: Sentiment Analysis ─────────────────────────┐
+│ ┌─ Asset Sentiment Overview ────────────────────────────┐  │
+│ │ BTC/USD:  72% Bullish  [████████░░]                   │  │
+│ │ EUR/USD:  35% Bearish  [░░░███████]                   │  │
+│ │ Gold:     58% Bullish  [█████░░░░░]                   │  │
+│ └───────────────────────────────────────────────────────┘  │
+│                                                             │
+│ ┌─ Social Media Trends ─────────────────────────────────┐  │
+│ │ Twitter mentions (24h): +35%                           │  │
+│ │ Reddit activity: High                                  │  │
+│ │ Top hashtags: #Bitcoin #ETF #Fed                       │  │
+│ └───────────────────────────────────────────────────────┘  │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Features:**
+- Real-time news aggregation
+- Sentiment scoring (AI-powered)
+- Impact level (High/Medium/Low)
+- Asset correlation
+- Social media trends
+- Economic calendar integration
+
+---
+
+### **3.10. Economic Calendar** (`/trading/economic-calendar`)
+
+**Dizayn:**
+```
+┌─ Filters ──────────────────────────────────────────────────┐
+│ [Week View] [Impact: All ▼] [Currency: All ▼]             │
+└────────────────────────────────────────────────────────────┘
+
+┌─ Calendar Table ───────────────────────────────────────────┐
+│ Time  │ Currency │ Event              │ Impact │ Previous  │
+│───────┼──────────┼────────────────────┼────────┼───────────│
+│ 08:30 │ USD      │ Non-Farm Payrolls  │ 🔴     │ 150k      │
+│ 10:00 │ EUR      │ ECB Speech         │ 🟡     │ -         │
+│ 14:00 │ GBP      │ GDP (QoQ)          │ 🟡     │ 0.5%      │
+│ 15:30 │ USD      │ Fed Minutes        │ 🔴     │ -         │
+└────────────────────────────────────────────────────────────┘
+
+┌─ Event Detail (expanded) ──────────────────────────────────┐
+│ Non-Farm Payrolls                                           │
+│ Scheduled: Today, 08:30 EST                                 │
+│ Previous: 150k | Forecast: 180k                             │
+│                                                             │
+│ Affected Assets: USD, Gold, S&P500                          │
+│ Historical Impact: ±50 pips average on EUR/USD              │
+│                                                             │
+│ [Set Alert 15min Before] [Add to Watchlist]                │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Features:**
+- Week/Month view
+- Filter by currency/impact
+- Countdown timers
+- Historical impact analysis
+- Alert before event
+- Direct chart link
+
+---
+
+### **3.11. Multi-Chart Layout** (`/trading/multi-chart`)
+
+**Layout Type:** Grid of charts
+
+**Dizayn:**
+```
+┌───────────────────────┬───────────────────────┐
+│  EUR/USD (15m)        │  GBP/USD (15m)        │
+│  [Chart]              │  [Chart]              │
+│                       │                       │
+├───────────────────────┼───────────────────────┤
+│  BTC/USD (1h)         │  Gold (4h)            │
+│  [Chart]              │  [Chart]              │
+│                       │                       │
+└───────────────────────┴───────────────────────┘
+```
+
+**Features:**
+- 2x2, 3x3, custom grid
+- Sync crosshair across charts
+- Individual timeframes per chart
+- Quick symbol change
+- Save/load layouts
+
+---
+
+### **3.12. Correlation Matrix** (`/trading/correlation`)
+
+**Dizayn:**
+```
+┌─ Correlation Matrix (Heatmap) ─────────────────────────────┐
+│                                                             │
+│         EUR/USD  GBP/USD  BTC/USD  Gold  S&P500  Oil       │
+│ EUR/USD   1.00    0.85    -0.32   0.45   -0.12   0.28     │
+│ GBP/USD   0.85    1.00    -0.28   0.52   -0.08   0.31     │
+│ BTC/USD  -0.32   -0.28     1.00  -0.15    0.65  -0.42     │
+│ Gold      0.45    0.52    -0.15   1.00   -0.35   0.18     │
+│ S&P500   -0.12   -0.08     0.65  -0.35    1.00  -0.52     │
+│ Oil       0.28    0.31    -0.42   0.18   -0.52   1.00     │
+│                                                             │
+│ Color Scale: -1.0 (Red) ← → +1.0 (Green)                  │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Settings ─────────────────────────────────────────────────┐
+│ Timeframe: [1D ▼]  Period: [30 days ▼]                     │
+│ [Add Asset] [Export Matrix]                                 │
+└─────────────────────────────────────────────────────────────┘
+Features:
+
+Color-coded heatmap
+Adjustable timeframe
+Historical correlation chart
+Pair comparison graph
+Export to CSV
+4️⃣ ANALYSIS & BACKTEST (15 səhifə)
+4.1. Backtesting Engine (/analysis/backtest)
+Layout Type: Form + Results
+
+Dizayn:
+
+┌─ Backtest Configuration ───────────────────────────────────┐
+│                                                             │
+│ ┌─ Strategy Setup ──────────────────────────────────────┐  │
+│ │ Strategy Name: [_______________]                       │  │
+│ │ Asset: [EUR/USD ▼]  Timeframe: [1H ▼]                 │  │
+│ │ Date Range: [2023-01-01] to [2024-01-01]              │  │
+│ │ Initial Capital: [$10,000]
+
+Continue
+
+│ │ Initial Capital: [$10,000]                             │  │
+│ │ Commission: [0.02%]  Slippage: [0.01%]                │  │
+│ └───────────────────────────────────────────────────────┘  │
+│                                                             │
+│ ┌─ Entry Rules ─────────────────────────────────────────┐  │
+│ │ Condition 1: [Price crosses above] [EMA(20)]          │  │
+│ │ Condition 2: [RSI] [is greater than] [50]             │  │
+│ │ Logic: [AND ▼]                                         │  │
+│ │ [+ Add Condition]                                      │  │
+│ └───────────────────────────────────────────────────────┘  │
+│                                                             │
+│ ┌─ Exit Rules ──────────────────────────────────────────┐  │
+│ │ Stop Loss: [2%] or [Fixed: $___]                      │  │
+│ │ Take Profit 1: [3%] Close [50%] of position           │  │
+│ │ Take Profit 2: [5%] Close [remaining]                 │  │
+│ │ Trailing Stop: [✓] Start after [2%] profit            │  │
+│ └───────────────────────────────────────────────────────┘  │
+│                                                             │
+│ ┌─ Risk Management ─────────────────────────────────────┐  │
+│ │ Max Position Size: [10%] of capital                   │  │
+│ │ Max Concurrent Trades: [3]                             │  │
+│ │ Daily Loss Limit: [5%]                                 │  │
+│ └───────────────────────────────────────────────────────┘  │
+│                                                             │
+│ [Run Backtest] [Save Strategy] [Load Template]             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Results Page (after run):**
+```
+┌─ Performance Summary ──────────────────────────────────────┐
+│                                                             │
+│  Total Return: +45.2%          Annual Return: 18.5%        │
+│  Total Trades: 127             Win Rate: 62.3%             │
+│  Profit Factor: 2.35           Max Drawdown: -12.8%        │
+│  Sharpe Ratio: 1.85            Calmar Ratio: 1.44          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Equity Curve ─────────────────────────────────────────────┐
+│                                    ╱───────                 │
+│                          ╱────────╱                         │
+│              ╱──────────╱                                   │
+│      ╱──────╱                                               │
+│ ────╱                                                       │
+│ $10k                                             $14.5k     │
+│ Jan 2023 ────────────────────────────── Jan 2024           │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Drawdown Chart ───────────────────────────────────────────┐
+│ 0% ─────────────────────────────────────────────────────   │
+│                    ╲                                        │
+│                     ╲───╱                                   │
+│                         ╲                                   │
+│-12.8% (Max)              ╲────────╱                         │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Trade Distribution ───────────────────────────────────────┐
+│  Wins: 79 (62.3%)          Losses: 48 (37.7%)              │
+│                                                             │
+│  Avg Win: $245             Avg Loss: -$95                  │
+│  Largest Win: $1,240       Largest Loss: -$380             │
+│  Expectancy: $152 per trade                                │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Monthly Returns (Heatmap) ────────────────────────────────┐
+│      Jan   Feb   Mar   Apr   May   Jun   Jul   Aug   Sep   │
+│ 2023 +2.3  +1.8  -0.5  +3.2  +4.1  +2.8  -1.2  +3.5  +2.1  │
+│                                                             │
+│ Color: Green (profit) | Red (loss) | Intensity = magnitude │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Trade List (Paginated) ───────────────────────────────────┐
+│ # │ Date       │ Type │ Entry  │ Exit   │ P&L    │ Return  │
+│───┼────────────┼──────┼────────┼────────┼────────┼─────────│
+│ 1 │ 2023-01-05 │ Long │ 1.0850 │ 1.0920 │ +$240  │ +2.4%   │
+│ 2 │ 2023-01-12 │ Long │ 1.0780 │ 1.0820 │ +$140  │ +1.4%   │
+│ 3 │ 2023-01-18 │ Long │ 1.0920 │ 1.0880 │ -$120  │ -1.2%   │
+│   │ [... 124 more trades]                                   │
+└─────────────────────────────────────────────────────────────┘
+
+[Export Report (PDF)] [Export Trades (CSV)] [Compare Strategies]
+```
+
+**Features:**
+- Visual strategy builder (drag-and-drop conditions)
+- Pre-built indicator library (50+)
+- Custom indicator support (code editor)
+- Multiple exit strategies
+- Risk management rules
+- Monte Carlo simulation
+- Sensitivity analysis (vary parameters)
+- Export detailed report
+
+---
+
+### **4.2. Walk-Forward Analysis** (`/analysis/walk-forward`)
+
+**Layout Type:** Multi-step wizard
+
+**Dizayn:**
+```
+┌─ Walk-Forward Configuration ───────────────────────────────┐
+│                                                             │
+│ Step 1 of 3: Parameters Setup                              │
+│                                                             │
+│ ┌─ Window Settings ─────────────────────────────────────┐  │
+│ │ In-Sample Period: [180 days]                           │  │
+│ │ Out-of-Sample Period: [60 days]                        │  │
+│ │ Anchored: [○] Rolling: [●]                             │  │
+│ │ Number of Windows: 6 (auto-calculated)                 │  │
+│ └───────────────────────────────────────────────────────┘  │
+│                                                             │
+│ ┌─ Parameter Optimization ──────────────────────────────┐  │
+│ │ EMA Period: Min [10] Max [50] Step [5]                │  │
+│ │ RSI Period: Min [10] Max [20] Step [2]                │  │
+│ │ Stop Loss %: Min [1] Max [5] Step [0.5]               │  │
+│ └───────────────────────────────────────────────────────┘  │
+│                                                             │
+│ [Back] [Next: Run Optimization →]                          │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Results View:**
+```
+┌─ Walk-Forward Results ─────────────────────────────────────┐
+│                                                             │
+│ Overall Performance:                                        │
+│ IS (In-Sample) Avg: +5.2%/window                           │
+│ OOS (Out-of-Sample) Avg: +3.8%/window                      │
+│ Degradation: 27% (Acceptable)                              │
+│ Consistency: 83% (5 out of 6 windows profitable)           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Window Performance Chart ─────────────────────────────────┐
+│     Window 1   Window 2   Window 3   Window 4   Window 5   │
+│ IS   [████]    [█████]    [███]      [████]     [█████]    │
+│ OOS  [███]     [████]     [██]       [███]      [████]     │
+│                                                             │
+│ Legend: Green = Profit | Red = Loss                         │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Optimized Parameters Per Window ──────────────────────────┐
+│ Window │ EMA  │ RSI │ SL%  │ IS Return │ OOS Return        │
+│────────┼──────┼─────┼──────┼───────────┼───────────────────│
+│ 1      │ 20   │ 14  │ 2.0  │ +6.2%     │ +4.1%             │
+│ 2      │ 25   │ 16  │ 2.5  │ +5.8%     │ +3.9%             │
+│ 3      │ 20   │ 14  │ 2.0  │ +4.5%     │ +2.8%             │
+│ 4      │ 30   │ 18  │ 3.0  │ +5.9%     │ +4.2%             │
+│ 5      │ 25   │ 16  │ 2.5  │ +6.1%     │ +4.5%             │
+│ 6      │ 20   │ 14  │ 2.0  │ +2.8%     │ -0.8% (Loss)      │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Robustness Analysis ──────────────────────────────────────┐
+│ Parameter Stability Score: 7.5/10 (Good)                    │
+│ Most Stable Parameter: RSI Period (14-16 range)            │
+│ Most Sensitive: Stop Loss % (high variance)                │
+│                                                             │
+│ Recommendation: Use RSI=14, EMA=20-25, dynamic SL          │
+└─────────────────────────────────────────────────────────────┘
+
+[Export Full Report] [Apply to Live Trading]
+```
+
+---
+
+### **4.3. Monte Carlo Simulation** (`/analysis/monte-carlo`)
+
+**Dizayn:**
+```
+┌─ Monte Carlo Setup ────────────────────────────────────────┐
+│                                                             │
+│ Input Trade Sequence: [Import from Backtest ▼]             │
+│ Number of Simulations: [10,000]                            │
+│ Randomization Method:                                       │
+│   [●] Trade Sequence Shuffle                               │
+│   [○] Return Distribution Sampling                         │
+│                                                             │
+│ [Run Simulation]                                            │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Results Distribution ─────────────────────────────────────┐
+│                                                             │
+│               Final Equity Distribution                     │
+│    │                    ╱█████╲                            │
+│    │                  ╱███████████╲                        │
+│    │              ╱███████████████████╲                    │
+│    │          ╱███████████████████████████╲                │
+│    │      ╱███████████████████████████████████╲            │
+│    └──────────────────────────────────────────────         │
+│        $8k      $12k      $16k (median)   $20k             │
+│                                                             │
+│  Median Return: +$6,200 (62%)                              │
+│  95% Confidence: $4,100 to $8,900                          │
+│  Probability of Profit: 89.5%                              │
+│  Probability of Ruin (<$5k): 2.3%                          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Risk Metrics ─────────────────────────────────────────────┐
+│                                                             │
+│  Value at Risk (95%): -$1,840                              │
+│  Conditional VaR (95%): -$2,450                            │
+│  Expected Shortfall: -$2,120                               │
+│                                                             │
+│  Max Drawdown Distribution:                                │
+│    Best Case: -8.2%                                        │
+│    Median: -15.8%                                          │
+│    Worst Case: -28.5%                                      │
+│    95th Percentile: -24.3%                                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Drawdown Paths (Sample) ──────────────────────────────────┐
+│  0% ────────────────────────────────────────               │
+│      ╲      ╱                                              │
+│  -10% ╲────╱  ╲╱                                           │
+│              ╲    ╱──                                      │
+│  -20%         ╲──╱                                         │
+│                                                             │
+│  (Showing 50 random simulation paths)                      │
+└─────────────────────────────────────────────────────────────┘
+
+[Export Simulation Data] [Re-run with Different Parameters]
+```
+
+**Features:**
+- 10,000+ simulation runs
+- Multiple randomization methods
+- Confidence intervals (90%, 95%, 99%)
+- Ruin probability calculation
+- VaR & CVaR metrics
+- Drawdown distribution
+- Interactive histogram
+- Path visualization
+
+---
+
+### **4.4. Portfolio Analyzer** (`/analysis/portfolio`)
+
+**Dizayn:**
+```
+┌─ Portfolio Overview ───────────────────────────────────────┐
+│                                                             │
+│  Total Value: $127,450.00        Daily P&L: +$2,340 (1.8%) │
+│  Cash: $12,450                   Invested: $115,000         │
+│  Available Margin: $8,500        Leverage: 1.5x             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Asset Allocation ─────────────────────────────────────────┐
+│                                                             │
+│   ┌─────────────────────────────────────┐                  │
+│   │         Pie Chart                   │                  │
+│   │  Stocks: 45% (Blue)                 │                  │
+│   │  Crypto: 30% (Orange)               │                  │
+│   │  Forex: 15% (Green)                 │                  │
+│   │  Commodities: 10% (Yellow)          │                  │
+│   └─────────────────────────────────────┘                  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Holdings Table ───────────────────────────────────────────┐
+│ Asset    │ Qty    │ Entry   │ Current │ P&L    │ Weight   │
+│──────────┼────────┼─────────┼─────────┼────────┼──────────│
+│ AAPL     │ 50     │ $175.20 │ $180.50 │ +$265  │ 7.1%     │
+│ BTC/USD  │ 0.5    │ $42,500 │ $44,200 │ +$850  │ 17.3%    │
+│ EUR/USD  │ 15k    │ 1.0820  │ 1.0850  │ +$450  │ 12.8%    │
+│ Gold     │ 5 oz   │ $2,050  │ $2,080  │ +$150  │ 8.2%     │
+│ [... more holdings]                                         │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Performance Metrics ──────────────────────────────────────┐
+│                                                             │
+│  1D: +1.8%    1W: +3.2%    1M: +7.5%    YTD: +18.2%        │
+│                                                             │
+│  Sharpe Ratio: 2.35        Beta: 1.15                      │
+│  Max Drawdown: -8.5%       Recovery Factor: 2.14           │
+│  Win Rate: 68%             Profit Factor: 2.45             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Correlation Matrix ───────────────────────────────────────┐
+│            AAPL   BTC   EUR/USD  Gold                      │
+│  AAPL      1.00   0.45  -0.12    0.08                      │
+│  BTC       0.45   1.00  -0.32    -0.15                     │
+│  EUR/USD  -0.12  -0.32   1.00    0.45                      │
+│  Gold      0.08  -0.15   0.45    1.00                      │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Risk Analysis ────────────────────────────────────────────┐
+│                                                             │
+│  Portfolio VaR (95%, 1D): -$2,450                          │
+│  Conditional VaR: -$3,120                                  │
+│  Expected Shortfall: -$2,780                               │
+│                                                             │
+│  Concentration Risk:                                        │
+│    Top 3 positions: 42% (⚠️ High concentration)           │
+│                                                             │
+│  Diversification Score: 6.8/10 (Good)                      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+[Rebalance Portfolio] [Export Report] [Set Alerts]
+```
+
+---
+
+### **4.5. Risk Dashboard** (`/analysis/risk`)
+
+**Dizayn:**
+```
+┌─ Risk Overview ────────────────────────────────────────────┐
+│                                                             │
+│  Overall Risk Score: 6.5/10 (Moderate)                     │
+│  Risk Capacity Used: 65% ████████░░                        │
+│  Daily Loss Limit: $1,500 remaining ($500 used today)      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Position-Level Risk ──────────────────────────────────────┐
+│ Position  │ Risk $  │ % of Port │ Max Loss │ Status        │
+│───────────┼─────────┼───────────┼──────────┼───────────────│
+│ EUR/USD   │ $850    │ 0.67%     │ -2.0%    │ 🟢 Low        │
+│ BTC/USD   │ $2,100  │ 1.65%     │ -5.0%    │ 🟡 Medium     │
+│ AAPL      │ $450    │ 0.35%     │ -3.0%    │ 🟢 Low        │
+│ Gold      │ $1,200  │ 0.94%     │ -4.5%    │ 🟡 Medium     │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Value at Risk (VaR) Analysis ─────────────────────────────┐
+│                                                             │
+│  1-Day VaR:                                                 │
+│    95% Confidence: -$2,450                                 │
+│    99% Confidence: -$3,850                                 │
+│                                                             │
+│  1-Week VaR:                                                │
+│    95% Confidence: -$5,200                                 │
+│    99% Confidence: -$8,100                                 │
+│                                                             │
+│  VaR Breakdown by Asset Class:                             │
+│    ┌─────────────────────────────────┐                     │
+│    │ Stocks:   40% ████████          │                     │
+│    │ Crypto:   35% ███████           │                     │
+│    │ Forex:    15% ███               │                     │
+│    │ Commodit: 10% ██                │                     │
+│    └─────────────────────────────────┘                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Stress Test Results ──────────────────────────────────────┐
+│                                                             │
+│  Scenario 1: Market Crash (-20%)                           │
+│    Portfolio Impact: -$18,450 (-14.5%)                     │
+│    Time to Recovery: ~45 days (est.)                       │
+│                                                             │
+│  Scenario 2: Fed Rate Hike (+0.5%)                         │
+│    Portfolio Impact: -$3,200 (-2.5%)                       │
+│                                                             │
+│  Scenario 3: Crypto Selloff (-30%)                         │
+│    Portfolio Impact: -$10,500 (-8.2%)                      │
+│                                                             │
+│  Scenario 4: Black Swan (Extreme)                          │
+│    Portfolio Impact: -$32,000 (-25%)                       │
+│    Margin Call Risk: ⚠️ High                               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Risk Limit Monitoring ────────────────────────────────────┐
+│                                                             │
+│  ✓ Daily loss limit: $500/$2,000 (25% used)               │
+│  ✓ Max open positions: 5/10                                │
+│  ✓ Max position size: $25k/$30k (per position)             │
+│  ⚠️ Concentration limit: 42% (limit: 40%)                  │
+│  ✓ Leverage: 1.5x/3.0x (safe)                              │
+│                                                             │
+│  Recent Violations:                                         │
+│    - Concentration limit exceeded (2 hours ago)            │
+│      Action taken: Alert sent                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+[Update Risk Limits] [View Historical Risk] [Export Report]
+```
+
+**Features:**
+- Real-time risk monitoring
+- Position-level risk breakdown
+- VaR calculations (1D, 1W, 1M)
+- Stress test scenarios (5 presets + custom)
+- Concentration risk analysis
+- Leverage monitoring
+- Margin requirement calculator
+- Risk limit enforcement
+- Alert system for violations
+
+---
+
+### **4.6. Trade Journal** (`/analysis/journal`)
+
+**Dizayn:**
+```
+┌─ Filters & Stats ──────────────────────────────────────────┐
+│                                                             │
+│  Date Range: [Last 30 Days ▼]  Asset: [All ▼]             │
+│  Total Trades: 45     Win Rate: 68%     P&L: +$8,240      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Trade List ───────────────────────────────────────────────┐
+│ Date       │ Asset   │ Type │ Entry  │ Exit   │ P&L   │ 🏷️ │
+│────────────┼─────────┼──────┼────────┼────────┼───────┼───│
+│ 2024-01-15 │ EUR/USD │ Long │ 1.0850 │ 1.0920 │ +$240 │ ⭐ │
+│   Setup: ICT FVG + BOS                                     │
+│   Emotion: Disciplined | Confidence: High                  │
+│   Notes: Perfect entry at FVG fill. Closed at resistance.  │
+│   [View Chart Replay] [Edit] [Delete]                      │
+│────────────┼─────────┼──────┼────────┼────────┼───────┼───│
+│ 2024-01-14 │ BTC/USD │ Long │ 42500  │ 42180  │ -$160 │   │
+│   Setup: MA Crossover                                      │
+│   Emotion: FOMO | Confidence: Medium                       │
+│   Notes: Entered too late. Broke my own rule.             │
+│   AI Insight: 🤖 "You tend to lose when entering on FOMO"  │
+│   [View Chart Replay] [Edit] [Delete]                      │
+│────────────┴─────────┴──────┴────────┴────────┴───────┴───│
+│ [... more trades]                                           │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Trade Entry Form (Modal when adding new) ─────────────────┐
+│                                                             │
+│  Date/Time: [2024-01-15 14:30]                             │
+│  Asset: [EUR/USD ▼]  Side: [●Long ○Short]                 │
+│  Entry: [1.0850]     Exit: [1.0920]                        │
+│  Position Size: [10,000 units]                             │
+│                                                             │
+│  Stop Loss: [1.0820]  Take Profit: [1.0920]               │
+│  Actual P&L: [+$240]  R:R Ratio: [1:2.3]                   │
+│                                                             │
+│  Strategy/Setup: [ICT FVG + Break of Structure]            │
+│  Confidence Level: [●●●●○] 4/5                             │
+│  Emotion Tag: [Disciplined ▼]                              │
+│                                                             │
+│  Pre-Trade Notes:                                           │
+│  [__________________________________________________]       │
+│                                                             │
+│  Post-Trade Notes:                                          │
+│  [__________________________________________________]       │
+│                                                             │
+│  Tags: [#FVG] [#BOS] [#HighProbability] [+Add Tag]        │
+│                                                             │
+│  Chart Screenshot: [Upload or Capture]                     │
+│                                                             │
+│  [Save Trade] [Cancel]                                      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Analytics Tab:**
+```
+┌─ Performance Analytics ────────────────────────────────────┐
+│                                                             │
+│  ┌─ Win Rate by Setup ──────────────────────────────────┐  │
+│  │ ICT FVG:           75% (12/16 trades)   [████████]   │  │
+│  │ MA Crossover:      55% (11/20 trades)   [█████░░░]   │  │
+│  │ Price Action:      82% (9/11 trades)    [████████]   │  │
+│  │ Support/Resist:    60% (6/10 trades)    [██████░░]   │  │
+│  └───────────────────────────────────────────────────────┘  │
+│                                                             │
+│  ┌─ Emotion Impact ─────────────────────────────────────┐  │
+│  │ Disciplined:  Win Rate 78%  Avg P&L +$195            │  │
+│  │ Confident:    Win Rate 72%  Avg P&L +$165            │  │
+│  │ Hesitant:     Win Rate 45%  Avg P&L -$85             │  │
+│  │ FOMO:         Win Rate 32%  Avg P&L -$140 ⚠️         │  │
+│  │ Revenge:      Win Rate 20%  Avg P&L -$250 🔴         │  │
+│  └───────────────────────────────────────────────────────┘  │
+│                                                             │
+│  ┌─ Time Analysis ──────────────────────────────────────┐  │
+│  │ Best Session: London (Win Rate: 75%)                 │  │
+│  │ Worst Session: Asia (Win Rate: 48%)                  │  │
+│  │ Best Day: Tuesday (Win Rate: 72%)                    │  │
+│  │ Worst Day: Friday (Win Rate: 52%)                    │  │
+│  └───────────────────────────────────────────────────────┘  │
+│                                                             │
+│  ┌─ AI Insights 🤖 ─────────────────────────────────────┐  │
+│  │ • You perform 23% better when you journal pre-trade  │  │
+│  │ • Your FOMO trades have 0% win rate in crypto        │  │
+│  │ • Your best R:R setups are ICT FVG (avg 1:3.2)       │  │
+│  │ • You tend to exit winners too early (avg MFE: 45%)  │  │
+│  └───────────────────────────────────────────────────────┘  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+[Export Journal (PDF)] [Generate Monthly Report]
+Features:
+
+Rich trade notes (text + screenshots)
+Emotion/confidence tracking
+Setup tagging system
+Chart replay (time machine)
+AI-powered pattern detection
+Performance by setup/emotion/time
+MFE/MAE analysis
+Streaks tracking
+Custom tags
+PDF export
+4.7. Performance Reports (/analysis/reports)
+Dizayn:
+
+┌─ Report Generator ─────────────────────────────────────────┐
+│                                                             │
+│  Report Type: [Monthly Performance ▼]                      │
+│  Period: [January 2024 ▼]                                  │
+│  Include: [✓] Summary [✓] Charts [✓] Trade List           │
+│                         [✓] AI Insights [○] Comparison      │
+│                                                             │
+│  [Generate Report] [Schedule Auto-send]                    │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ Report Preview ───────────────────────────────────────────┐
+│                                                             │
+│  ═══════════════════════════════════════════════════════   │
+│         ATLAS TRADING PLATFORM                             │
+│     Monthly Performance Report - January 2024             │
+│  ═══════════════════════════════════════════════════════   │
+│                                                             │
+│  Executive Summary                                          │
+│  ────────────────────────────────────────────              │
+
+
+Session limit reached ∙ resets 7:00 PM
+Upgrade
+
+
+
+
+
+
