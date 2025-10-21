@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Color Palette */
+    --background: 222.2 84% 4.9%;
+    --background-secondary: 217.2 32.6% 17.5%;
+    --background-elevated: 215 27.9% 26.5%;
+
+    --foreground: 210 40% 98%;
+    --foreground-secondary: 215.4 16.3% 56.9%;
+    --foreground-muted: 217.9 10.6% 40.6%;
+
+    --primary: 217.2 91.2% 59.8%;
+    --primary-foreground: 210 40% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 85.7% 97.3%;
+
+    --bullish: 142.1 76.2% 36.3%;
+    --bearish: 0 72.2% 50.6%;
+    --neutral: 215.3 12.3% 46.9%;
+
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 217.2 91.2% 59.8%;
+
+    /* Border Radius */
+    --radius: 0.5rem;
+
+    /* Font Families */
+    --font-sans: "Inter", sans-serif;
+    --font-mono: "JetBrains Mono", monospace;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
